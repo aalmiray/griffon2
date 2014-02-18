@@ -26,10 +26,6 @@
 </file>
 <file name="/home/travis/build/aalmiray/griffon2/plugins/griffon-preferences-plugin/src/main/java/griffon/plugins/preferences/persistors/SerializingPreferencesPersistor.java">
 </file>
-<file name="/home/travis/build/aalmiray/griffon2/plugins/griffon-preferences-plugin/src/main/java/org/codehaus/griffon/runtime/core/PreferencesAddon.java">
-</file>
-<file name="/home/travis/build/aalmiray/griffon2/plugins/griffon-preferences-plugin/src/main/java/org/codehaus/griffon/runtime/core/PreferencesModule.java">
-</file>
 <file name="/home/travis/build/aalmiray/griffon2/plugins/griffon-preferences-plugin/src/main/java/org/codehaus/griffon/runtime/prefs/AbstractPreferences.java">
 </file>
 <file name="/home/travis/build/aalmiray/griffon2/plugins/griffon-preferences-plugin/src/main/java/org/codehaus/griffon/runtime/prefs/AbstractPreferencesManager.java">
@@ -41,5 +37,9 @@
 <file name="/home/travis/build/aalmiray/griffon2/plugins/griffon-preferences-plugin/src/main/java/org/codehaus/griffon/runtime/prefs/DefaultPreferencesManager.java">
 </file>
 <file name="/home/travis/build/aalmiray/griffon2/plugins/griffon-preferences-plugin/src/main/java/org/codehaus/griffon/runtime/prefs/DefaultPreferencesNode.java">
+</file>
+<file name="/home/travis/build/aalmiray/griffon2/plugins/griffon-preferences-plugin/src/main/java/org/codehaus/griffon/runtime/prefs/PreferencesAddon.java">
+</file>
+<file name="/home/travis/build/aalmiray/griffon2/plugins/griffon-preferences-plugin/src/main/java/org/codehaus/griffon/runtime/prefs/PreferencesModule.java">
 </file>
 </checkstyle>

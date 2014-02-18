@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="griffon.util.CompositeBuilderTest" tests="7" failures="0" errors="0" timestamp="2014-02-17T20:52:35" hostname="testing-worker-linux-2-2-30281-linux-3-19064236" time="0.591">
+<testsuite name="griffon.util.CompositeBuilderTest" tests="7" failures="0" errors="0" timestamp="2014-02-18T21:03:07" hostname="testing-worker-linux-9-1-26937-linux-3-19139712" time="1.373">
   <properties/>
-  <testcase name="testWithTwoBuilderCustomizers" classname="griffon.util.CompositeBuilderTest" time="0.446"/>
-  <testcase name="testMethodMissingDelegate_abortedByCustomizer" classname="griffon.util.CompositeBuilderTest" time="0.039"/>
-  <testcase name="testMethodMissingDelegate_noDelegate" classname="griffon.util.CompositeBuilderTest" time="0.012"/>
-  <testcase name="testMethodMissingDelegate_unhandledByCustomizer" classname="griffon.util.CompositeBuilderTest" time="0.034"/>
-  <testcase name="testMethodMissingDelegate_handledByCustomizer" classname="griffon.util.CompositeBuilderTest" time="0.025"/>
-  <testcase name="testMethodMissingDelegate" classname="griffon.util.CompositeBuilderTest" time="0.014"/>
-  <testcase name="testPropertyMissingDelegate" classname="griffon.util.CompositeBuilderTest" time="0.015"/>
+  <testcase name="testWithTwoBuilderCustomizers" classname="griffon.util.CompositeBuilderTest" time="1.07"/>
+  <testcase name="testMethodMissingDelegate_abortedByCustomizer" classname="griffon.util.CompositeBuilderTest" time="0.076"/>
+  <testcase name="testMethodMissingDelegate_noDelegate" classname="griffon.util.CompositeBuilderTest" time="0.019"/>
+  <testcase name="testMethodMissingDelegate_unhandledByCustomizer" classname="griffon.util.CompositeBuilderTest" time="0.106"/>
+  <testcase name="testMethodMissingDelegate_handledByCustomizer" classname="griffon.util.CompositeBuilderTest" time="0.045"/>
+  <testcase name="testMethodMissingDelegate" classname="griffon.util.CompositeBuilderTest" time="0.021"/>
+  <testcase name="testPropertyMissingDelegate" classname="griffon.util.CompositeBuilderTest" time="0.03"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Feb 17, 2014 8:52:35 PM groovy.util.FactoryBuilderSupport createNode
+  <system-err><![CDATA[Feb 18, 2014 9:03:08 PM groovy.util.FactoryBuilderSupport createNode
 WARNING: Could not find match for name 'methodDoesNotExist'
-Feb 17, 2014 8:52:35 PM groovy.util.FactoryBuilderSupport createNode
+Feb 18, 2014 9:03:08 PM groovy.util.FactoryBuilderSupport createNode
 WARNING: Could not find match for name 'someMethod'
-Feb 17, 2014 8:52:35 PM groovy.util.FactoryBuilderSupport createNode
+Feb 18, 2014 9:03:09 PM groovy.util.FactoryBuilderSupport createNode
 WARNING: Could not find match for name 'randomMethod'
-Feb 17, 2014 8:52:35 PM groovy.util.FactoryBuilderSupport createNode
+Feb 18, 2014 9:03:09 PM groovy.util.FactoryBuilderSupport createNode
 WARNING: Could not find match for name 'randomMethod'
-Feb 17, 2014 8:52:36 PM groovy.util.FactoryBuilderSupport createNode
+Feb 18, 2014 9:03:09 PM groovy.util.FactoryBuilderSupport createNode
 WARNING: Could not find match for name 'randomMethod'
-Feb 17, 2014 8:52:36 PM groovy.util.FactoryBuilderSupport createNode
+Feb 18, 2014 9:03:09 PM groovy.util.FactoryBuilderSupport createNode
 WARNING: Could not find match for name 'someOtherMethod'
-Feb 17, 2014 8:52:36 PM groovy.util.FactoryBuilderSupport createNode
+Feb 18, 2014 9:03:09 PM groovy.util.FactoryBuilderSupport createNode
 WARNING: Could not find match for name 'randomMethod'
-Feb 17, 2014 8:52:36 PM groovy.util.FactoryBuilderSupport createNode
+Feb 18, 2014 9:03:09 PM groovy.util.FactoryBuilderSupport createNode
 WARNING: Could not find match for name 'someOtherMethod'
-Feb 17, 2014 8:52:36 PM groovy.util.FactoryBuilderSupport createNode
+Feb 18, 2014 9:03:09 PM groovy.util.FactoryBuilderSupport createNode
 WARNING: Could not find match for name 'randomMethod'
-Feb 17, 2014 8:52:36 PM groovy.util.FactoryBuilderSupport createNode
+Feb 18, 2014 9:03:09 PM groovy.util.FactoryBuilderSupport createNode
 WARNING: Could not find match for name 'someOtherMethod'
 ]]></system-err>
 </testsuite>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<BugCollection version="2.0.2" sequence="0" timestamp="1392670238085" analysisTimestamp="1392670238141" release="">
+<BugCollection version="2.0.2" sequence="0" timestamp="1392757255159" analysisTimestamp="1392757255201" release="">
   <Project projectName="">
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/griffon/transform/DataSourceAware.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/lombok/javac/handlers/HandleDataSourceAware$1.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/lombok/javac/handlers/HandleDataSourceAware.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/lombok/javac/handlers/HandleDataSourceAware$JavacDataSourceAwareHandler.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/lombok/core/handlers/DataSourceAwareHandler.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/lombok/eclipse/handlers/HandleDataSourceAware$EclipseDataSourceAwareHandler.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/lombok/eclipse/handlers/HandleDataSourceAware$1.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/lombok/eclipse/handlers/HandleDataSourceAware.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/lombok/eclipse/handlers/HandleDataSourceAware$EclipseDataSourceAwareHandler.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/lombok/intellij/processor/clazz/DataSourceAwareProcessor.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/org/codehaus/griffon/compile/datasource/DataSourceAwareConstants.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/META-INF/services/de.plushnikov.intellij.lombok.processor.clazz.LombokClassProcessor</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/META-INF/services/lombok.eclipse.EclipseAnnotationHandler</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/META-INF/services/lombok.javac.JavacAnnotationHandler</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/META-INF/services/de.plushnikov.intellij.lombok.processor.LombokProcessor</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/META-INF/services/lombok.eclipse.EclipseAnnotationHandler</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/griffon/transform/DataSourceAware.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/org/codehaus/griffon/compile/datasource/DataSourceAwareConstants.class</Jar>
     <AuxClasspathEntry>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/libs/griffon-core-compile-2.0.0-SNAPSHOT.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/build/aalmiray/griffon2/plugins/griffon-lombok-compile/build/libs/griffon-lombok-compile-2.0.0-SNAPSHOT.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-plugin/build/libs/griffon-datasource-plugin-2.0.0-SNAPSHOT.jar</AuxClasspathEntry>
@@ -42,17 +42,42 @@
     <AuxClasspathEntry>/home/travis/build/aalmiray/griffon2/plugins/lombok-deps/lib/extensions-11.1.4.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/build/aalmiray/griffon2/plugins/lombok-deps/lib/util-11.1.4.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/build/aalmiray/griffon2/plugins/lombok-deps/lib/annotations-11.1.4.jar</AuxClasspathEntry>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/src/main/java/griffon/transform/DataSourceAware.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/src/main/java/lombok/javac/handlers/HandleDataSourceAware.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/src/main/java/lombok/core/handlers/DataSourceAwareHandler.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/src/main/java/lombok/eclipse/handlers/HandleDataSourceAware.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/src/main/java/lombok/intellij/processor/clazz/DataSourceAwareProcessor.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/src/main/java/griffon/transform/DataSourceAware.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/src/main/java/org/codehaus/griffon/compile/datasource/DataSourceAwareConstants.java</SrcDir>
   </Project>
   <Errors errors="4" missingClasses="0">
     <Error>
       <ErrorMessage>Cannot open codebase filesystem:/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/META-INF/services/de.plushnikov.intellij.lombok.processor.clazz.LombokClassProcessor</ErrorMessage>
       <Exception>java.util.zip.ZipException: Wrong magic bytes of 23204765 for zip file /home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/META-INF/services/de.plushnikov.intellij.lombok.processor.clazz.LombokClassProcessor of 175 bytes</Exception>
+      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ZipFileCodeBase.&lt;init&gt;(ZipFileCodeBase.java:80)</StackTrace>
+      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory.countUsingZipFile(ZipCodeBaseFactory.java:90)</StackTrace>
+      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory.makeZipCodeBase(ZipCodeBaseFactory.java:46)</StackTrace>
+      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ClassFactory.createFilesystemCodeBase(ClassFactory.java:117)</StackTrace>
+      <StackTrace>edu.umd.cs.findbugs.classfile.impl.FilesystemCodeBaseLocator.openCodeBase(FilesystemCodeBaseLocator.java:75)</StackTrace>
+      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ClassPathBuilder.processWorkList(ClassPathBuilder.java:596)</StackTrace>
+      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ClassPathBuilder.build(ClassPathBuilder.java:220)</StackTrace>
+      <StackTrace>edu.umd.cs.findbugs.FindBugs2.buildClassPath(FindBugs2.java:779)</StackTrace>
+      <StackTrace>edu.umd.cs.findbugs.FindBugs2.execute(FindBugs2.java:217)</StackTrace>
+      <StackTrace>org.gradle.api.plugins.quality.internal.findbugs.FindBugsExecuter.runFindbugs(FindBugsExecuter.java:44)</StackTrace>
+      <StackTrace>org.gradle.api.plugins.quality.internal.findbugs.FindBugsWorkerServer.execute(FindBugsWorkerServer.java:45)</StackTrace>
+      <StackTrace>org.gradle.api.plugins.quality.internal.findbugs.FindBugsWorkerServer.execute(FindBugsWorkerServer.java:35)</StackTrace>
+      <StackTrace>org.gradle.api.plugins.quality.internal.findbugs.FindBugsWorkerServer.execute(FindBugsWorkerServer.java:26)</StackTrace>
+      <StackTrace>org.gradle.process.internal.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:78)</StackTrace>
+      <StackTrace>org.gradle.process.internal.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:35)</StackTrace>
+      <StackTrace>org.gradle.process.internal.child.ImplementationClassLoaderWorker.execute(ImplementationClassLoaderWorker.java:85)</StackTrace>
+      <StackTrace>org.gradle.process.internal.child.ImplementationClassLoaderWorker.execute(ImplementationClassLoaderWorker.java:41)</StackTrace>
+      <StackTrace>org.gradle.process.internal.child.IsolatedApplicationClassLoaderWorker.call(IsolatedApplicationClassLoaderWorker.java:48)</StackTrace>
+      <StackTrace>org.gradle.process.internal.child.IsolatedApplicationClassLoaderWorker.call(IsolatedApplicationClassLoaderWorker.java:30)</StackTrace>
+      <StackTrace>org.gradle.process.internal.launcher.GradleWorkerMain.run(GradleWorkerMain.java:32)</StackTrace>
+      <StackTrace>org.gradle.process.internal.launcher.GradleWorkerMain.main(GradleWorkerMain.java:37)</StackTrace>
+    </Error>
+    <Error>
+      <ErrorMessage>Cannot open codebase filesystem:/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/META-INF/services/lombok.eclipse.EclipseAnnotationHandler</ErrorMessage>
+      <Exception>java.util.zip.ZipException: Wrong magic bytes of 23204765 for zip file /home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/META-INF/services/lombok.eclipse.EclipseAnnotationHandler of 164 bytes</Exception>
       <StackTrace>edu.umd.cs.findbugs.classfile.impl.ZipFileCodeBase.&lt;init&gt;(ZipFileCodeBase.java:80)</StackTrace>
       <StackTrace>edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory.countUsingZipFile(ZipCodeBaseFactory.java:90)</StackTrace>
       <StackTrace>edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory.makeZipCodeBase(ZipCodeBaseFactory.java:46)</StackTrace>
@@ -125,33 +150,8 @@
       <StackTrace>org.gradle.process.internal.launcher.GradleWorkerMain.run(GradleWorkerMain.java:32)</StackTrace>
       <StackTrace>org.gradle.process.internal.launcher.GradleWorkerMain.main(GradleWorkerMain.java:37)</StackTrace>
     </Error>
-    <Error>
-      <ErrorMessage>Cannot open codebase filesystem:/home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/META-INF/services/lombok.eclipse.EclipseAnnotationHandler</ErrorMessage>
-      <Exception>java.util.zip.ZipException: Wrong magic bytes of 23204765 for zip file /home/travis/build/aalmiray/griffon2/plugins/griffon-datasource-lombok-compile/build/classes/main/META-INF/services/lombok.eclipse.EclipseAnnotationHandler of 164 bytes</Exception>
-      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ZipFileCodeBase.&lt;init&gt;(ZipFileCodeBase.java:80)</StackTrace>
-      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory.countUsingZipFile(ZipCodeBaseFactory.java:90)</StackTrace>
-      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory.makeZipCodeBase(ZipCodeBaseFactory.java:46)</StackTrace>
-      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ClassFactory.createFilesystemCodeBase(ClassFactory.java:117)</StackTrace>
-      <StackTrace>edu.umd.cs.findbugs.classfile.impl.FilesystemCodeBaseLocator.openCodeBase(FilesystemCodeBaseLocator.java:75)</StackTrace>
-      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ClassPathBuilder.processWorkList(ClassPathBuilder.java:596)</StackTrace>
-      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ClassPathBuilder.build(ClassPathBuilder.java:220)</StackTrace>
-      <StackTrace>edu.umd.cs.findbugs.FindBugs2.buildClassPath(FindBugs2.java:779)</StackTrace>
-      <StackTrace>edu.umd.cs.findbugs.FindBugs2.execute(FindBugs2.java:217)</StackTrace>
-      <StackTrace>org.gradle.api.plugins.quality.internal.findbugs.FindBugsExecuter.runFindbugs(FindBugsExecuter.java:44)</StackTrace>
-      <StackTrace>org.gradle.api.plugins.quality.internal.findbugs.FindBugsWorkerServer.execute(FindBugsWorkerServer.java:45)</StackTrace>
-      <StackTrace>org.gradle.api.plugins.quality.internal.findbugs.FindBugsWorkerServer.execute(FindBugsWorkerServer.java:35)</StackTrace>
-      <StackTrace>org.gradle.api.plugins.quality.internal.findbugs.FindBugsWorkerServer.execute(FindBugsWorkerServer.java:26)</StackTrace>
-      <StackTrace>org.gradle.process.internal.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:78)</StackTrace>
-      <StackTrace>org.gradle.process.internal.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:35)</StackTrace>
-      <StackTrace>org.gradle.process.internal.child.ImplementationClassLoaderWorker.execute(ImplementationClassLoaderWorker.java:85)</StackTrace>
-      <StackTrace>org.gradle.process.internal.child.ImplementationClassLoaderWorker.execute(ImplementationClassLoaderWorker.java:41)</StackTrace>
-      <StackTrace>org.gradle.process.internal.child.IsolatedApplicationClassLoaderWorker.call(IsolatedApplicationClassLoaderWorker.java:48)</StackTrace>
-      <StackTrace>org.gradle.process.internal.child.IsolatedApplicationClassLoaderWorker.call(IsolatedApplicationClassLoaderWorker.java:30)</StackTrace>
-      <StackTrace>org.gradle.process.internal.launcher.GradleWorkerMain.run(GradleWorkerMain.java:32)</StackTrace>
-      <StackTrace>org.gradle.process.internal.launcher.GradleWorkerMain.main(GradleWorkerMain.java:37)</StackTrace>
-    </Error>
   </Errors>
-  <FindBugsSummary timestamp="Mon, 17 Feb 2014 20:50:38 +0000" total_classes="10" referenced_classes="96" total_bugs="0" total_size="73" num_packages="6" vm_version="24.51-b03" cpu_seconds="25.59" clock_seconds="9.98" peak_mbytes="145.48" alloc_mbytes="683.00" gc_seconds="0.39">
+  <FindBugsSummary timestamp="Tue, 18 Feb 2014 21:00:55 +0000" total_classes="10" referenced_classes="96" total_bugs="0" total_size="73" num_packages="6" vm_version="24.51-b03" cpu_seconds="25.64" clock_seconds="10.67" peak_mbytes="146.58" alloc_mbytes="683.00" gc_seconds="0.40">
     <PackageStats package="griffon.transform" total_bugs="0" total_types="1" total_size="1">
       <ClassStats class="griffon.transform.DataSourceAware" sourceFile="DataSourceAware.java" interface="true" size="1" bugs="0"/>
     </PackageStats>
@@ -175,19 +175,19 @@
       <ClassStats class="org.codehaus.griffon.compile.datasource.DataSourceAwareConstants" sourceFile="DataSourceAwareConstants.java" interface="true" size="17" bugs="0"/>
     </PackageStats>
     <FindBugsProfile>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="2341" invocations="915" avgMicrosecondsPerInvocation="2559" maxMicrosecondsPerInvocation="214818" standardDeviationMircosecondsPerInvocation="9451"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="851" invocations="96" avgMicrosecondsPerInvocation="8870" maxMicrosecondsPerInvocation="127088" standardDeviationMircosecondsPerInvocation="19192"/>
-      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="615" invocations="340" avgMicrosecondsPerInvocation="1809" maxMicrosecondsPerInvocation="73979" standardDeviationMircosecondsPerInvocation="5166"/>
-      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="526" invocations="878" avgMicrosecondsPerInvocation="599" maxMicrosecondsPerInvocation="13992" standardDeviationMircosecondsPerInvocation="1506"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="466" invocations="96" avgMicrosecondsPerInvocation="4859" maxMicrosecondsPerInvocation="66190" standardDeviationMircosecondsPerInvocation="9659"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="284" invocations="96" avgMicrosecondsPerInvocation="2966" maxMicrosecondsPerInvocation="25743" standardDeviationMircosecondsPerInvocation="5015"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="253" invocations="130" avgMicrosecondsPerInvocation="1952" maxMicrosecondsPerInvocation="31888" standardDeviationMircosecondsPerInvocation="4390"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="203" invocations="96" avgMicrosecondsPerInvocation="2124" maxMicrosecondsPerInvocation="22171" standardDeviationMircosecondsPerInvocation="3986"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="195" invocations="96" avgMicrosecondsPerInvocation="2033" maxMicrosecondsPerInvocation="27494" standardDeviationMircosecondsPerInvocation="4080"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="194" invocations="13" avgMicrosecondsPerInvocation="14946" maxMicrosecondsPerInvocation="140601" standardDeviationMircosecondsPerInvocation="36570"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory" totalMilliseconds="185" invocations="42" avgMicrosecondsPerInvocation="4418" maxMicrosecondsPerInvocation="172611" standardDeviationMircosecondsPerInvocation="26269"/>
-      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="181" invocations="13" avgMicrosecondsPerInvocation="13938" maxMicrosecondsPerInvocation="140528" standardDeviationMircosecondsPerInvocation="36694"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="175" invocations="96" avgMicrosecondsPerInvocation="1828" maxMicrosecondsPerInvocation="16664" standardDeviationMircosecondsPerInvocation="3154"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="2354" invocations="915" avgMicrosecondsPerInvocation="2573" maxMicrosecondsPerInvocation="190336" standardDeviationMircosecondsPerInvocation="8681"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="1028" invocations="96" avgMicrosecondsPerInvocation="10716" maxMicrosecondsPerInvocation="120604" standardDeviationMircosecondsPerInvocation="22790"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="725" invocations="340" avgMicrosecondsPerInvocation="2134" maxMicrosecondsPerInvocation="73593" standardDeviationMircosecondsPerInvocation="6634"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="536" invocations="878" avgMicrosecondsPerInvocation="610" maxMicrosecondsPerInvocation="20649" standardDeviationMircosecondsPerInvocation="1629"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="515" invocations="96" avgMicrosecondsPerInvocation="5371" maxMicrosecondsPerInvocation="59855" standardDeviationMircosecondsPerInvocation="10958"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="311" invocations="96" avgMicrosecondsPerInvocation="3249" maxMicrosecondsPerInvocation="33619" standardDeviationMircosecondsPerInvocation="5834"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="264" invocations="130" avgMicrosecondsPerInvocation="2036" maxMicrosecondsPerInvocation="35184" standardDeviationMircosecondsPerInvocation="4661"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory" totalMilliseconds="231" invocations="42" avgMicrosecondsPerInvocation="5505" maxMicrosecondsPerInvocation="218299" standardDeviationMircosecondsPerInvocation="33234"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="221" invocations="96" avgMicrosecondsPerInvocation="2310" maxMicrosecondsPerInvocation="37937" standardDeviationMircosecondsPerInvocation="5291"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="207" invocations="96" avgMicrosecondsPerInvocation="2165" maxMicrosecondsPerInvocation="21900" standardDeviationMircosecondsPerInvocation="4126"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="207" invocations="13" avgMicrosecondsPerInvocation="15929" maxMicrosecondsPerInvocation="168165" standardDeviationMircosecondsPerInvocation="44075"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="191" invocations="13" avgMicrosecondsPerInvocation="14722" maxMicrosecondsPerInvocation="141386" standardDeviationMircosecondsPerInvocation="36809"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="183" invocations="96" avgMicrosecondsPerInvocation="1916" maxMicrosecondsPerInvocation="15880" standardDeviationMircosecondsPerInvocation="3293"/>
     </FindBugsProfile>
   </FindBugsSummary>
   <ClassFeatures></ClassFeatures>

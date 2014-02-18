@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="griffon.util.CompositeResourceBuilderSpec" tests="2" failures="0" errors="0" timestamp="2014-02-17T20:48:58" hostname="testing-worker-linux-2-2-30281-linux-3-19064236" time="0.14">
+<testsuite name="griffon.util.CompositeResourceBuilderSpec" tests="2" failures="0" errors="0" timestamp="2014-02-18T20:59:02" hostname="testing-worker-linux-9-1-26937-linux-3-19139712" time="2.024">
   <properties/>
-  <testcase name="Invalid constructor args" classname="griffon.util.CompositeResourceBuilderSpec" time="0.103"/>
-  <testcase name="Resolve messages from multiple bundles" classname="griffon.util.CompositeResourceBuilderSpec" time="0.036"/>
+  <testcase name="Invalid constructor args" classname="griffon.util.CompositeResourceBuilderSpec" time="1.88"/>
+  <testcase name="Resolve messages from multiple bundles" classname="griffon.util.CompositeResourceBuilderSpec" time="0.143"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

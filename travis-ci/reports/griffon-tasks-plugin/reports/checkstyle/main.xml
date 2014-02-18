@@ -30,8 +30,6 @@
 </file>
 <file name="/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/util/UIThreadWorker.java">
 </file>
-<file name="/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/core/TasksModule.java">
-</file>
 <file name="/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/AbstractTask.java">
 </file>
 <file name="/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/AbstractTaskBlocker.java">
@@ -61,6 +59,8 @@
 <file name="/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/TaskIterator.java">
 </file>
 <file name="/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/TaskListenerAdapter.java">
+</file>
+<file name="/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/TasksModule.java">
 </file>
 <file name="/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/util/AbstractUIThreadWorker.java">
 </file>

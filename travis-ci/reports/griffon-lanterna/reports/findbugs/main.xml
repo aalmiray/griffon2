@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<BugCollection version="2.0.2" sequence="0" timestamp="1392670508006" analysisTimestamp="1392670508127" release="">
+<BugCollection version="2.0.2" sequence="0" timestamp="1392757530406" analysisTimestamp="1392757530474" release="">
   <Project projectName="">
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/META-INF/services/griffon.core.injection.Module</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/griffon/lanterna/LanternaWindowManager.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/griffon/lanterna/LanternaWindowDisplayHandler.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/griffon/lanterna/LanternaGriffonApplication.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/griffon/lanterna/LanternaWindowManager.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/griffon/lanterna/widgets/MutableButton$1.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/griffon/lanterna/widgets/MutableButton.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/griffon/lanterna/support/LanternaAction$1.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/griffon/lanterna/support/LanternaAction.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/griffon/lanterna/support/LanternaAction$ResolveStrategy.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/org/codehaus/griffon/runtime/lanterna/DefaultLanternaWindowDisplayHandler.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/org/codehaus/griffon/runtime/lanterna/DefaultLanternaWindowManager.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/org/codehaus/griffon/runtime/lanterna/LanternaUIThreadManager.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/org/codehaus/griffon/runtime/lanterna/GUIScreenProvider.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/org/codehaus/griffon/runtime/lanterna/DefaultLanternaWindowManager$1.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/org/codehaus/griffon/runtime/lanterna/LanternaUIThreadManager$1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/org/codehaus/griffon/runtime/lanterna/DefaultLanternaWindowManager$WindowHelper.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/org/codehaus/griffon/runtime/lanterna/LanternaModule.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/org/codehaus/griffon/runtime/lanterna/ConfigurableLanternaWindowDisplayHandler.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/org/codehaus/griffon/runtime/lanterna/DefaultLanternaWindowManager.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/org/codehaus/griffon/runtime/lanterna/LanternaUIThreadManager.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/org/codehaus/griffon/runtime/lanterna/DefaultLanternaWindowDisplayHandler.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/org/codehaus/griffon/runtime/lanterna/DefaultLanternaWindowManager$WindowHelper.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/org/codehaus/griffon/runtime/lanterna/controller/LanternaGriffonControllerAction$2$1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/org/codehaus/griffon/runtime/lanterna/controller/LanternaActionManager.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/org/codehaus/griffon/runtime/lanterna/controller/LanternaGriffonControllerAction.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/org/codehaus/griffon/runtime/lanterna/controller/LanternaGriffonControllerAction$1.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/org/codehaus/griffon/runtime/lanterna/controller/LanternaGriffonControllerAction$2.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/org/codehaus/griffon/runtime/lanterna/controller/LanternaGriffonControllerAction.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/org/codehaus/griffon/runtime/lanterna/controller/LanternaActionManager.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/org/codehaus/griffon/runtime/lanterna/controller/LanternaGriffonControllerAction$1.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/build/classes/main/META-INF/services/griffon.core.injection.Module</Jar>
     <AuxClasspathEntry>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core/build/libs/griffon-core-2.0.0-SNAPSHOT.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/com.googlecode.lanterna/lanterna/2.1.7/6dfbedc5989c11f48341b8af166bbd828390145f/lanterna-2.1.7.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar</AuxClasspathEntry>
@@ -34,20 +34,20 @@
     <AuxClasspathEntry>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/libs/griffon-core-compile-2.0.0-SNAPSHOT.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/org.kordamp.jipsy/jipsy/0.3.0/84c5383dce1639f27671a287f88b45d03f1d42ac/jipsy-0.3.0.jar</AuxClasspathEntry>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/griffon/lanterna/LanternaWindowManager.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/griffon/lanterna/LanternaGriffonApplication.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/griffon/lanterna/LanternaWindowDisplayHandler.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/griffon/lanterna/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/griffon/lanterna/widgets/MutableButton.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/griffon/lanterna/LanternaWindowDisplayHandler.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/griffon/lanterna/LanternaGriffonApplication.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/griffon/lanterna/widgets/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/griffon/lanterna/widgets/MutableButton.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/griffon/lanterna/support/LanternaAction.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/griffon/lanterna/support/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/org/codehaus/griffon/runtime/lanterna/LanternaUIThreadManager.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/org/codehaus/griffon/runtime/lanterna/LanternaModule.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/org/codehaus/griffon/runtime/lanterna/GUIScreenProvider.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/org/codehaus/griffon/runtime/lanterna/DefaultLanternaWindowDisplayHandler.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/org/codehaus/griffon/runtime/lanterna/DefaultLanternaWindowManager.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/org/codehaus/griffon/runtime/lanterna/package-info.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/org/codehaus/griffon/runtime/lanterna/ConfigurableLanternaWindowDisplayHandler.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/org/codehaus/griffon/runtime/lanterna/DefaultLanternaWindowManager.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/org/codehaus/griffon/runtime/lanterna/LanternaUIThreadManager.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/org/codehaus/griffon/runtime/lanterna/GUIScreenProvider.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/org/codehaus/griffon/runtime/lanterna/DefaultLanternaWindowDisplayHandler.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/org/codehaus/griffon/runtime/lanterna/LanternaModule.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/org/codehaus/griffon/runtime/lanterna/controller/LanternaGriffonControllerAction.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/org/codehaus/griffon/runtime/lanterna/controller/LanternaActionManager.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-lanterna/src/main/java/org/codehaus/griffon/runtime/lanterna/controller/package-info.java</SrcDir>
@@ -79,7 +79,7 @@
       <StackTrace>org.gradle.process.internal.launcher.GradleWorkerMain.main(GradleWorkerMain.java:37)</StackTrace>
     </Error>
   </Errors>
-  <FindBugsSummary timestamp="Mon, 17 Feb 2014 20:55:08 +0000" total_classes="22" referenced_classes="191" total_bugs="0" total_size="340" num_packages="5" vm_version="24.51-b03" cpu_seconds="31.59" clock_seconds="14.08" peak_mbytes="137.89" alloc_mbytes="683.00" gc_seconds="0.36">
+  <FindBugsSummary timestamp="Tue, 18 Feb 2014 21:05:30 +0000" total_classes="22" referenced_classes="191" total_bugs="0" total_size="340" num_packages="5" vm_version="24.51-b03" cpu_seconds="24.21" clock_seconds="10.49" peak_mbytes="139.15" alloc_mbytes="683.00" gc_seconds="0.16">
     <PackageStats package="griffon.lanterna" total_bugs="0" total_types="3" total_size="33">
       <ClassStats class="griffon.lanterna.LanternaGriffonApplication" sourceFile="LanternaGriffonApplication.java" interface="false" size="31" bugs="0"/>
       <ClassStats class="griffon.lanterna.LanternaWindowDisplayHandler" sourceFile="LanternaWindowDisplayHandler.java" interface="true" size="1" bugs="0"/>
@@ -113,22 +113,23 @@
       <ClassStats class="org.codehaus.griffon.runtime.lanterna.controller.LanternaGriffonControllerAction$2$1" sourceFile="LanternaGriffonControllerAction.java" interface="false" size="8" bugs="0"/>
     </PackageStats>
     <FindBugsProfile>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="2124" invocations="776" avgMicrosecondsPerInvocation="2737" maxMicrosecondsPerInvocation="126705" standardDeviationMircosecondsPerInvocation="7439"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="1508" invocations="191" avgMicrosecondsPerInvocation="7898" maxMicrosecondsPerInvocation="258058" standardDeviationMircosecondsPerInvocation="25962"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="840" invocations="191" avgMicrosecondsPerInvocation="4401" maxMicrosecondsPerInvocation="72606" standardDeviationMircosecondsPerInvocation="11240"/>
-      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="637" invocations="730" avgMicrosecondsPerInvocation="872" maxMicrosecondsPerInvocation="29489" standardDeviationMircosecondsPerInvocation="2506"/>
-      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="560" invocations="392" avgMicrosecondsPerInvocation="1429" maxMicrosecondsPerInvocation="91782" standardDeviationMircosecondsPerInvocation="4937"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="546" invocations="191" avgMicrosecondsPerInvocation="2861" maxMicrosecondsPerInvocation="59899" standardDeviationMircosecondsPerInvocation="6983"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="374" invocations="236" avgMicrosecondsPerInvocation="1587" maxMicrosecondsPerInvocation="34653" standardDeviationMircosecondsPerInvocation="4011"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="330" invocations="782" avgMicrosecondsPerInvocation="422" maxMicrosecondsPerInvocation="206856" standardDeviationMircosecondsPerInvocation="7392"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="318" invocations="191" avgMicrosecondsPerInvocation="1669" maxMicrosecondsPerInvocation="42453" standardDeviationMircosecondsPerInvocation="4755"/>
-      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="287" invocations="77" avgMicrosecondsPerInvocation="3734" maxMicrosecondsPerInvocation="25893" standardDeviationMircosecondsPerInvocation="4957"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="280" invocations="86" avgMicrosecondsPerInvocation="3264" maxMicrosecondsPerInvocation="24624" standardDeviationMircosecondsPerInvocation="4449"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="275" invocations="90" avgMicrosecondsPerInvocation="3061" maxMicrosecondsPerInvocation="27927" standardDeviationMircosecondsPerInvocation="4562"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="268" invocations="90" avgMicrosecondsPerInvocation="2978" maxMicrosecondsPerInvocation="26551" standardDeviationMircosecondsPerInvocation="4647"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="260" invocations="191" avgMicrosecondsPerInvocation="1365" maxMicrosecondsPerInvocation="37300" standardDeviationMircosecondsPerInvocation="3617"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="251" invocations="191" avgMicrosecondsPerInvocation="1315" maxMicrosecondsPerInvocation="30952" standardDeviationMircosecondsPerInvocation="3610"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="240" invocations="84" avgMicrosecondsPerInvocation="2861" maxMicrosecondsPerInvocation="22263" standardDeviationMircosecondsPerInvocation="3644"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="1262" invocations="777" avgMicrosecondsPerInvocation="1625" maxMicrosecondsPerInvocation="39403" standardDeviationMircosecondsPerInvocation="3327"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="1046" invocations="191" avgMicrosecondsPerInvocation="5476" maxMicrosecondsPerInvocation="104824" standardDeviationMircosecondsPerInvocation="14315"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="699" invocations="191" avgMicrosecondsPerInvocation="3661" maxMicrosecondsPerInvocation="78542" standardDeviationMircosecondsPerInvocation="9335"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="441" invocations="191" avgMicrosecondsPerInvocation="2313" maxMicrosecondsPerInvocation="53077" standardDeviationMircosecondsPerInvocation="5782"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="397" invocations="731" avgMicrosecondsPerInvocation="543" maxMicrosecondsPerInvocation="10267" standardDeviationMircosecondsPerInvocation="1194"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="374" invocations="391" avgMicrosecondsPerInvocation="956" maxMicrosecondsPerInvocation="24478" standardDeviationMircosecondsPerInvocation="1907"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="357" invocations="236" avgMicrosecondsPerInvocation="1515" maxMicrosecondsPerInvocation="91608" standardDeviationMircosecondsPerInvocation="6442"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ExplicitSerialization" totalMilliseconds="226" invocations="191" avgMicrosecondsPerInvocation="1188" maxMicrosecondsPerInvocation="81958" standardDeviationMircosecondsPerInvocation="7522"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="224" invocations="90" avgMicrosecondsPerInvocation="2495" maxMicrosecondsPerInvocation="40103" standardDeviationMircosecondsPerInvocation="5341"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="223" invocations="77" avgMicrosecondsPerInvocation="2901" maxMicrosecondsPerInvocation="20257" standardDeviationMircosecondsPerInvocation="3489"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="218" invocations="86" avgMicrosecondsPerInvocation="2545" maxMicrosecondsPerInvocation="24881" standardDeviationMircosecondsPerInvocation="3918"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="212" invocations="191" avgMicrosecondsPerInvocation="1114" maxMicrosecondsPerInvocation="24487" standardDeviationMircosecondsPerInvocation="2626"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="211" invocations="191" avgMicrosecondsPerInvocation="1106" maxMicrosecondsPerInvocation="40134" standardDeviationMircosecondsPerInvocation="3511"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="200" invocations="191" avgMicrosecondsPerInvocation="1050" maxMicrosecondsPerInvocation="19888" standardDeviationMircosecondsPerInvocation="2631"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="194" invocations="84" avgMicrosecondsPerInvocation="2320" maxMicrosecondsPerInvocation="19689" standardDeviationMircosecondsPerInvocation="3057"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="181" invocations="90" avgMicrosecondsPerInvocation="2018" maxMicrosecondsPerInvocation="21945" standardDeviationMircosecondsPerInvocation="3318"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ReflectiveClasses" totalMilliseconds="177" invocations="191" avgMicrosecondsPerInvocation="927" maxMicrosecondsPerInvocation="46145" standardDeviationMircosecondsPerInvocation="3605"/>
     </FindBugsProfile>
   </FindBugsSummary>
   <ClassFeatures></ClassFeatures>

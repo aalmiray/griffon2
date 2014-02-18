@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.codehaus.griffon.runtime.util.GroovyAwareCompositeResourceBundleBuilder2Spec" tests="1" failures="0" errors="0" timestamp="2014-02-17T20:52:37" hostname="testing-worker-linux-2-2-30281-linux-3-19064236" time="0.208">
+<testsuite name="org.codehaus.griffon.runtime.util.GroovyAwareCompositeResourceBundleBuilder2Spec" tests="1" failures="0" errors="0" timestamp="2014-02-18T21:03:18" hostname="testing-worker-linux-9-1-26937-linux-3-19139712" time="0.382">
   <properties/>
-  <testcase name="Load Groovy and properties bundles" classname="org.codehaus.griffon.runtime.util.GroovyAwareCompositeResourceBundleBuilder2Spec" time="0.208"/>
+  <testcase name="Load Groovy and properties bundles" classname="org.codehaus.griffon.runtime.util.GroovyAwareCompositeResourceBundleBuilder2Spec" time="0.382"/>
   <system-out><![CDATA[TEST
 TEST
 ]]></system-out>

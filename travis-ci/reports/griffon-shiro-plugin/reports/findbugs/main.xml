@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<BugCollection version="2.0.2" sequence="0" timestamp="1392670802923" analysisTimestamp="1392670802969" release="">
+<BugCollection version="2.0.2" sequence="0" timestamp="1392757766557" analysisTimestamp="1392757766651" release="">
   <Project projectName="">
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/META-INF/services/griffon.core.injection.Module</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/griffon/plugins/shiro/SecurityFailureHandler$Kind.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/griffon/plugins/shiro/SecurityFailureHandler.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/AbstractSecurityFailureHandler.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/DefaultSecurityFailureHandler$1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/SubjectProvider.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/ShiroActionInterceptor$Requirement.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/ShiroActionInterceptor$AuthenticationRequirementEvaluator.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/ShiroActionInterceptor$GuestRequirementEvaluator.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/DefaultSecurityFailureHandler.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/ShiroActionInterceptor$ActionRequirement.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/ShiroActionInterceptor$PermissionsRequirementEvaluator.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/ShiroModule.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/SubjectProvider.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/SecurityManagerProvider.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/ShiroActionInterceptor.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/ShiroActionInterceptor$GuestRequirementEvaluator.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/ShiroActionInterceptor$RequirementEvaluator.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/ShiroActionInterceptor.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/DefaultSecurityFailureHandler.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/ShiroActionInterceptor$Requirement.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/ShiroActionInterceptor$RolesRequirementEvaluator.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/ShiroActionInterceptor$1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/ShiroActionInterceptor$RequirementConfiguration.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/ShiroActionInterceptor$UserRequirementEvaluator.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/core/ShiroModule.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/ShiroActionInterceptor$1.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/ShiroActionInterceptor$AuthenticationRequirementEvaluator.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/ShiroActionInterceptor$ActionRequirement.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/ShiroActionInterceptor$RequirementConfiguration.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/org/codehaus/griffon/runtime/shiro/AbstractSecurityFailureHandler.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/META-INF/services/griffon.core.injection.Module</Jar>
     <AuxClasspathEntry>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core/build/libs/griffon-core-2.0.0-SNAPSHOT.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/org.apache.shiro/shiro-core/1.2.2/b4a506e331007e769baf34a6015e5b17b3de7d19/shiro-core-1.2.2.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar</AuxClasspathEntry>
@@ -32,17 +32,17 @@
     <AuxClasspathEntry>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/libs/griffon-core-compile-2.0.0-SNAPSHOT.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/org.kordamp.jipsy/jipsy/0.3.0/84c5383dce1639f27671a287f88b45d03f1d42ac/jipsy-0.3.0.jar</AuxClasspathEntry>
     <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/src/main/java/griffon/plugins/shiro/SecurityFailureHandler.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/src/main/java/org/codehaus/griffon/runtime/shiro/AbstractSecurityFailureHandler.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/src/main/java/org/codehaus/griffon/runtime/shiro/ShiroActionInterceptor.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/src/main/java/org/codehaus/griffon/runtime/shiro/SubjectProvider.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/src/main/java/org/codehaus/griffon/runtime/shiro/SecurityManagerProvider.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/src/main/java/org/codehaus/griffon/runtime/shiro/ShiroModule.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/src/main/java/org/codehaus/griffon/runtime/shiro/SubjectProvider.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/src/main/java/org/codehaus/griffon/runtime/shiro/DefaultSecurityFailureHandler.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/src/main/java/org/codehaus/griffon/runtime/core/ShiroModule.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/src/main/java/org/codehaus/griffon/runtime/shiro/AbstractSecurityFailureHandler.java</SrcDir>
   </Project>
   <Errors errors="1" missingClasses="0">
     <Error>
       <ErrorMessage>Cannot open codebase filesystem:/home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/META-INF/services/griffon.core.injection.Module</ErrorMessage>
-      <Exception>java.util.zip.ZipException: Wrong magic bytes of 23204765 for zip file /home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/META-INF/services/griffon.core.injection.Module of 164 bytes</Exception>
+      <Exception>java.util.zip.ZipException: Wrong magic bytes of 23204765 for zip file /home/travis/build/aalmiray/griffon2/plugins/griffon-shiro-plugin/build/classes/main/META-INF/services/griffon.core.injection.Module of 165 bytes</Exception>
       <StackTrace>edu.umd.cs.findbugs.classfile.impl.ZipFileCodeBase.&lt;init&gt;(ZipFileCodeBase.java:80)</StackTrace>
       <StackTrace>edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory.countUsingZipFile(ZipCodeBaseFactory.java:90)</StackTrace>
       <StackTrace>edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory.makeZipCodeBase(ZipCodeBaseFactory.java:46)</StackTrace>
@@ -66,15 +66,12 @@
       <StackTrace>org.gradle.process.internal.launcher.GradleWorkerMain.main(GradleWorkerMain.java:37)</StackTrace>
     </Error>
   </Errors>
-  <FindBugsSummary timestamp="Mon, 17 Feb 2014 21:00:02 +0000" total_classes="19" referenced_classes="79" total_bugs="0" total_size="321" num_packages="3" vm_version="24.51-b03" cpu_seconds="22.38" clock_seconds="10.09" peak_mbytes="137.50" alloc_mbytes="683.00" gc_seconds="0.22">
+  <FindBugsSummary timestamp="Tue, 18 Feb 2014 21:09:26 +0000" total_classes="19" referenced_classes="79" total_bugs="0" total_size="321" num_packages="2" vm_version="24.51-b03" cpu_seconds="20.80" clock_seconds="8.56" peak_mbytes="136.41" alloc_mbytes="683.00" gc_seconds="0.15">
     <PackageStats package="griffon.plugins.shiro" total_bugs="0" total_types="2" total_size="19">
       <ClassStats class="griffon.plugins.shiro.SecurityFailureHandler" sourceFile="SecurityFailureHandler.java" interface="true" size="2" bugs="0"/>
       <ClassStats class="griffon.plugins.shiro.SecurityFailureHandler$Kind" sourceFile="SecurityFailureHandler.java" interface="false" size="17" bugs="0"/>
     </PackageStats>
-    <PackageStats package="org.codehaus.griffon.runtime.core" total_bugs="0" total_types="1" total_size="9">
-      <ClassStats class="org.codehaus.griffon.runtime.core.ShiroModule" sourceFile="ShiroModule.java" interface="false" size="9" bugs="0"/>
-    </PackageStats>
-    <PackageStats package="org.codehaus.griffon.runtime.shiro" total_bugs="0" total_types="16" total_size="293">
+    <PackageStats package="org.codehaus.griffon.runtime.shiro" total_bugs="0" total_types="17" total_size="302">
       <ClassStats class="org.codehaus.griffon.runtime.shiro.AbstractSecurityFailureHandler" sourceFile="AbstractSecurityFailureHandler.java" interface="false" size="11" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.runtime.shiro.DefaultSecurityFailureHandler" sourceFile="DefaultSecurityFailureHandler.java" interface="false" size="19" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.runtime.shiro.DefaultSecurityFailureHandler$1" sourceFile="DefaultSecurityFailureHandler.java" interface="false" size="4" bugs="0"/>
@@ -90,28 +87,29 @@
       <ClassStats class="org.codehaus.griffon.runtime.shiro.ShiroActionInterceptor$RequirementEvaluator" sourceFile="ShiroActionInterceptor.java" interface="true" size="2" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.runtime.shiro.ShiroActionInterceptor$RolesRequirementEvaluator" sourceFile="ShiroActionInterceptor.java" interface="false" size="23" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.runtime.shiro.ShiroActionInterceptor$UserRequirementEvaluator" sourceFile="ShiroActionInterceptor.java" interface="false" size="6" bugs="0"/>
+      <ClassStats class="org.codehaus.griffon.runtime.shiro.ShiroModule" sourceFile="ShiroModule.java" interface="false" size="9" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.runtime.shiro.SubjectProvider" sourceFile="SubjectProvider.java" interface="false" size="8" bugs="0"/>
     </PackageStats>
     <FindBugsProfile>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="1470" invocations="495" avgMicrosecondsPerInvocation="2970" maxMicrosecondsPerInvocation="119902" standardDeviationMircosecondsPerInvocation="8062"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="520" invocations="79" avgMicrosecondsPerInvocation="6586" maxMicrosecondsPerInvocation="101822" standardDeviationMircosecondsPerInvocation="18010"/>
-      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="406" invocations="458" avgMicrosecondsPerInvocation="888" maxMicrosecondsPerInvocation="16141" standardDeviationMircosecondsPerInvocation="1939"/>
-      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="377" invocations="69" avgMicrosecondsPerInvocation="5475" maxMicrosecondsPerInvocation="26501" standardDeviationMircosecondsPerInvocation="6845"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="362" invocations="73" avgMicrosecondsPerInvocation="4961" maxMicrosecondsPerInvocation="50511" standardDeviationMircosecondsPerInvocation="7957"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="355" invocations="69" avgMicrosecondsPerInvocation="5157" maxMicrosecondsPerInvocation="43447" standardDeviationMircosecondsPerInvocation="8127"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="352" invocations="79" avgMicrosecondsPerInvocation="4466" maxMicrosecondsPerInvocation="62396" standardDeviationMircosecondsPerInvocation="11767"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="348" invocations="71" avgMicrosecondsPerInvocation="4910" maxMicrosecondsPerInvocation="33042" standardDeviationMircosecondsPerInvocation="6887"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="303" invocations="73" avgMicrosecondsPerInvocation="4152" maxMicrosecondsPerInvocation="28360" standardDeviationMircosecondsPerInvocation="6074"/>
-      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="273" invocations="218" avgMicrosecondsPerInvocation="1254" maxMicrosecondsPerInvocation="23088" standardDeviationMircosecondsPerInvocation="2518"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="250" invocations="79" avgMicrosecondsPerInvocation="3167" maxMicrosecondsPerInvocation="35147" standardDeviationMircosecondsPerInvocation="6137"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="244" invocations="71" avgMicrosecondsPerInvocation="3440" maxMicrosecondsPerInvocation="27200" standardDeviationMircosecondsPerInvocation="4941"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="222" invocations="128" avgMicrosecondsPerInvocation="1740" maxMicrosecondsPerInvocation="46803" standardDeviationMircosecondsPerInvocation="4988"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory" totalMilliseconds="208" invocations="22" avgMicrosecondsPerInvocation="9471" maxMicrosecondsPerInvocation="202988" standardDeviationMircosecondsPerInvocation="42230"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="165" invocations="64" avgMicrosecondsPerInvocation="2582" maxMicrosecondsPerInvocation="14339" standardDeviationMircosecondsPerInvocation="3493"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="157" invocations="73" avgMicrosecondsPerInvocation="2157" maxMicrosecondsPerInvocation="86017" standardDeviationMircosecondsPerInvocation="10603"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="145" invocations="79" avgMicrosecondsPerInvocation="1838" maxMicrosecondsPerInvocation="30491" standardDeviationMircosecondsPerInvocation="5157"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="138" invocations="79" avgMicrosecondsPerInvocation="1752" maxMicrosecondsPerInvocation="24343" standardDeviationMircosecondsPerInvocation="4315"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="127" invocations="79" avgMicrosecondsPerInvocation="1610" maxMicrosecondsPerInvocation="24309" standardDeviationMircosecondsPerInvocation="4331"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="1190" invocations="496" avgMicrosecondsPerInvocation="2399" maxMicrosecondsPerInvocation="132847" standardDeviationMircosecondsPerInvocation="7468"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="492" invocations="79" avgMicrosecondsPerInvocation="6233" maxMicrosecondsPerInvocation="102663" standardDeviationMircosecondsPerInvocation="16930"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="356" invocations="459" avgMicrosecondsPerInvocation="777" maxMicrosecondsPerInvocation="13174" standardDeviationMircosecondsPerInvocation="1616"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="346" invocations="69" avgMicrosecondsPerInvocation="5020" maxMicrosecondsPerInvocation="34493" standardDeviationMircosecondsPerInvocation="6752"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="332" invocations="79" avgMicrosecondsPerInvocation="4210" maxMicrosecondsPerInvocation="63417" standardDeviationMircosecondsPerInvocation="11489"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="297" invocations="79" avgMicrosecondsPerInvocation="3769" maxMicrosecondsPerInvocation="168549" standardDeviationMircosecondsPerInvocation="19202"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="293" invocations="73" avgMicrosecondsPerInvocation="4018" maxMicrosecondsPerInvocation="63952" standardDeviationMircosecondsPerInvocation="8154"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="289" invocations="69" avgMicrosecondsPerInvocation="4192" maxMicrosecondsPerInvocation="35077" standardDeviationMircosecondsPerInvocation="6273"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="280" invocations="71" avgMicrosecondsPerInvocation="3944" maxMicrosecondsPerInvocation="28272" standardDeviationMircosecondsPerInvocation="5443"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="276" invocations="73" avgMicrosecondsPerInvocation="3784" maxMicrosecondsPerInvocation="25685" standardDeviationMircosecondsPerInvocation="5673"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="230" invocations="79" avgMicrosecondsPerInvocation="2919" maxMicrosecondsPerInvocation="35039" standardDeviationMircosecondsPerInvocation="5760"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="218" invocations="218" avgMicrosecondsPerInvocation="1001" maxMicrosecondsPerInvocation="23199" standardDeviationMircosecondsPerInvocation="1847"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="192" invocations="71" avgMicrosecondsPerInvocation="2713" maxMicrosecondsPerInvocation="21606" standardDeviationMircosecondsPerInvocation="3640"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="168" invocations="127" avgMicrosecondsPerInvocation="1330" maxMicrosecondsPerInvocation="29340" standardDeviationMircosecondsPerInvocation="3425"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory" totalMilliseconds="160" invocations="22" avgMicrosecondsPerInvocation="7291" maxMicrosecondsPerInvocation="156107" standardDeviationMircosecondsPerInvocation="32475"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="159" invocations="64" avgMicrosecondsPerInvocation="2499" maxMicrosecondsPerInvocation="13584" standardDeviationMircosecondsPerInvocation="3295"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="120" invocations="79" avgMicrosecondsPerInvocation="1524" maxMicrosecondsPerInvocation="22073" standardDeviationMircosecondsPerInvocation="3725"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="109" invocations="73" avgMicrosecondsPerInvocation="1506" maxMicrosecondsPerInvocation="78901" standardDeviationMircosecondsPerInvocation="9132"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="97" invocations="71" avgMicrosecondsPerInvocation="1375" maxMicrosecondsPerInvocation="8666" standardDeviationMircosecondsPerInvocation="1836"/>
     </FindBugsProfile>
   </FindBugsSummary>
   <ClassFeatures></ClassFeatures>

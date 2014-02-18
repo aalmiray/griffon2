@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<BugCollection version="2.0.2" sequence="0" timestamp="1392670915005" analysisTimestamp="1392670915134" release="">
+<BugCollection version="2.0.2" sequence="0" timestamp="1392757870007" analysisTimestamp="1392757870104" release="">
   <Project projectName="">
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/META-INF/services/griffon.core.injection.Module</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/util/UIThreadWorker.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/util/UIThreadWorker$StateValue.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskControl.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskWorker.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskContext.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskPredicates$1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskBlocker.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskListener.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskPredicates$5.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/Task.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/ExceptionHandler$1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskPredicates.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskListenerSupport.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskManager.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskPredicates$3.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/Task$State.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskPredicates$2.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskListenerSupport.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskPredicate.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskPredicates$5.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/ChangeEvent.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskPredicates$1.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskManager.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskListener.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskControl.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/ExceptionHandler$1.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/Task$State.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskBlocker.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskContext.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskWorker.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskPredicates$3.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskEvent.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/ExceptionHandler.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskPredicates.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskPredicates$4.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/Task$Mode.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/TaskPredicate.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/ChangeEvent.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/Tracker.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/griffon/plugins/tasks/ExceptionHandler.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/util/AbstractUIThreadWorker.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/util/AbstractUIThreadWorker$2.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/util/AbstractUIThreadWorker$3.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/util/AbstractUIThreadWorker$4.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/util/AbstractUIThreadWorker$5.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/util/AbstractUIThreadWorker$1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/core/TasksModule.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/TaskListenerAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/NonBlockingTaskManager$1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/DefaultTaskContext.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/DefaultTaskManager.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/DefaultTracker.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/AbstractTaskBlocker.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/DefaultTaskWorker.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/DefaultTaskManager$1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/DefaultTaskListenerSupport.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/TaskIterable.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/EventEmitter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/EventEmitter$EventInvocationHandler.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/util/AbstractUIThreadWorker$4.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/util/AbstractUIThreadWorker$3.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/util/AbstractUIThreadWorker.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/DefaultTaskControl.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/NonBlockingTaskManager.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/LoggingExceptionHandler.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/EventEmitter.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/DefaultTaskContext$1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/DefaultChangeEvent.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/DefaultTaskWorker.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/EventEmitter$EventInvocationHandler.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/DefaultTaskContext.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/NonBlockingTaskManager.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/DefaultTaskManager$1.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/TaskIterator.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/NonBlockingTaskManager$1.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/AbstractTaskBlocker.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/DefaultTaskManager.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/DefaultChangeEvent.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/TaskIterable.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/TasksModule.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/AbstractTask.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/LoggingExceptionHandler.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/TaskListenerAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/DefaultTracker.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/org/codehaus/griffon/runtime/tasks/DefaultTaskListenerSupport.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/META-INF/services/griffon.core.injection.Module</Jar>
     <AuxClasspathEntry>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core/build/libs/griffon-core-2.0.0-SNAPSHOT.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/javax.annotation/jsr250-api/1.0/5025422767732a1ab45d93abfea846513d742dcf/jsr250-api-1.0.jar</AuxClasspathEntry>
@@ -61,42 +61,42 @@
     <AuxClasspathEntry>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/libs/griffon-core-compile-2.0.0-SNAPSHOT.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/org.kordamp.jipsy/jipsy/0.3.0/84c5383dce1639f27671a287f88b45d03f1d42ac/jipsy-0.3.0.jar</AuxClasspathEntry>
     <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/util/UIThreadWorker.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/TaskPredicates.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/TaskPredicate.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/TaskWorker.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/Task.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/TaskContext.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/TaskManager.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/TaskControl.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/TaskContext.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/TaskListenerSupport.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/ExceptionHandler.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/Tracker.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/TaskPredicate.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/TaskListener.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/TaskBlocker.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/Task.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/TaskEvent.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/ChangeEvent.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/Tracker.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/TaskWorker.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/TaskPredicates.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/ExceptionHandler.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/TaskControl.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/griffon/plugins/tasks/TaskBlocker.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/util/AbstractUIThreadWorker.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/core/TasksModule.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/DefaultChangeEvent.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/LoggingExceptionHandler.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/DefaultTaskContext.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/DefaultTracker.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/DefaultTaskWorker.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/EventEmitter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/TaskIterator.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/TaskListenerAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/DefaultTaskControl.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/AbstractTaskBlocker.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/AbstractTask.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/DefaultTaskWorker.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/DefaultTaskManager.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/NonBlockingTaskManager.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/DefaultTaskListenerSupport.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/DefaultTaskContext.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/NonBlockingTaskManager.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/LoggingExceptionHandler.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/DefaultTracker.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/DefaultTaskControl.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/EventEmitter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/AbstractTask.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/TaskIterator.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/TaskIterable.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/AbstractTaskBlocker.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/DefaultChangeEvent.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/src/main/java/org/codehaus/griffon/runtime/tasks/TasksModule.java</SrcDir>
   </Project>
   <Errors errors="1" missingClasses="0">
     <Error>
       <ErrorMessage>Cannot open codebase filesystem:/home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/META-INF/services/griffon.core.injection.Module</ErrorMessage>
-      <Exception>java.util.zip.ZipException: Wrong magic bytes of 23204765 for zip file /home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/META-INF/services/griffon.core.injection.Module of 164 bytes</Exception>
+      <Exception>java.util.zip.ZipException: Wrong magic bytes of 23204765 for zip file /home/travis/build/aalmiray/griffon2/plugins/griffon-tasks-plugin/build/classes/main/META-INF/services/griffon.core.injection.Module of 165 bytes</Exception>
       <StackTrace>edu.umd.cs.findbugs.classfile.impl.ZipFileCodeBase.&lt;init&gt;(ZipFileCodeBase.java:80)</StackTrace>
       <StackTrace>edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory.countUsingZipFile(ZipCodeBaseFactory.java:90)</StackTrace>
       <StackTrace>edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory.makeZipCodeBase(ZipCodeBaseFactory.java:46)</StackTrace>
@@ -120,7 +120,7 @@
       <StackTrace>org.gradle.process.internal.launcher.GradleWorkerMain.main(GradleWorkerMain.java:37)</StackTrace>
     </Error>
   </Errors>
-  <FindBugsSummary timestamp="Mon, 17 Feb 2014 21:01:55 +0000" total_classes="50" referenced_classes="134" total_bugs="0" total_size="881" num_packages="5" vm_version="24.51-b03" cpu_seconds="28.50" clock_seconds="15.80" peak_mbytes="151.41" alloc_mbytes="683.00" gc_seconds="1.05">
+  <FindBugsSummary timestamp="Tue, 18 Feb 2014 21:11:10 +0000" total_classes="50" referenced_classes="134" total_bugs="0" total_size="881" num_packages="4" vm_version="24.51-b03" cpu_seconds="28.77" clock_seconds="11.28" peak_mbytes="152.80" alloc_mbytes="683.00" gc_seconds="0.31">
     <PackageStats package="griffon.plugins.tasks" total_bugs="0" total_types="22" total_size="161">
       <ClassStats class="griffon.plugins.tasks.ChangeEvent" sourceFile="ChangeEvent.java" interface="true" size="3" bugs="0"/>
       <ClassStats class="griffon.plugins.tasks.ExceptionHandler" sourceFile="ExceptionHandler.java" interface="true" size="5" bugs="0"/>
@@ -149,10 +149,7 @@
       <ClassStats class="griffon.util.UIThreadWorker" sourceFile="UIThreadWorker.java" interface="true" size="4" bugs="0"/>
       <ClassStats class="griffon.util.UIThreadWorker$StateValue" sourceFile="UIThreadWorker.java" interface="false" size="13" bugs="0"/>
     </PackageStats>
-    <PackageStats package="org.codehaus.griffon.runtime.core" total_bugs="0" total_types="1" total_size="6">
-      <ClassStats class="org.codehaus.griffon.runtime.core.TasksModule" sourceFile="TasksModule.java" interface="false" size="6" bugs="0"/>
-    </PackageStats>
-    <PackageStats package="org.codehaus.griffon.runtime.tasks" total_bugs="0" total_types="19" total_size="580">
+    <PackageStats package="org.codehaus.griffon.runtime.tasks" total_bugs="0" total_types="20" total_size="586">
       <ClassStats class="org.codehaus.griffon.runtime.tasks.AbstractTask" sourceFile="AbstractTask.java" interface="false" size="26" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.runtime.tasks.AbstractTaskBlocker" sourceFile="AbstractTaskBlocker.java" interface="false" size="9" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.runtime.tasks.DefaultChangeEvent" sourceFile="DefaultChangeEvent.java" interface="false" size="28" bugs="0"/>
@@ -172,6 +169,7 @@
       <ClassStats class="org.codehaus.griffon.runtime.tasks.TaskIterable" sourceFile="TaskIterable.java" interface="false" size="17" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.runtime.tasks.TaskIterator" sourceFile="TaskIterator.java" interface="false" size="21" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.runtime.tasks.TaskListenerAdapter" sourceFile="TaskListenerAdapter.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="org.codehaus.griffon.runtime.tasks.TasksModule" sourceFile="TasksModule.java" interface="false" size="6" bugs="0"/>
     </PackageStats>
     <PackageStats package="org.codehaus.griffon.runtime.util" total_bugs="0" total_types="6" total_size="117">
       <ClassStats class="org.codehaus.griffon.runtime.util.AbstractUIThreadWorker" sourceFile="AbstractUIThreadWorker.java" interface="false" size="78" bugs="0"/>
@@ -182,28 +180,27 @@
       <ClassStats class="org.codehaus.griffon.runtime.util.AbstractUIThreadWorker$5" sourceFile="AbstractUIThreadWorker.java" interface="false" size="7" bugs="0"/>
     </PackageStats>
     <FindBugsProfile>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="1583" invocations="622" avgMicrosecondsPerInvocation="2546" maxMicrosecondsPerInvocation="161916" standardDeviationMircosecondsPerInvocation="8167"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="1031" invocations="134" avgMicrosecondsPerInvocation="7698" maxMicrosecondsPerInvocation="200221" standardDeviationMircosecondsPerInvocation="24428"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FindSelfComparison" totalMilliseconds="823" invocations="50" avgMicrosecondsPerInvocation="16476" maxMicrosecondsPerInvocation="778273" standardDeviationMircosecondsPerInvocation="108889"/>
-      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="644" invocations="197" avgMicrosecondsPerInvocation="3272" maxMicrosecondsPerInvocation="33236" standardDeviationMircosecondsPerInvocation="4916"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="588" invocations="134" avgMicrosecondsPerInvocation="4393" maxMicrosecondsPerInvocation="89057" standardDeviationMircosecondsPerInvocation="11287"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="568" invocations="197" avgMicrosecondsPerInvocation="2885" maxMicrosecondsPerInvocation="33348" standardDeviationMircosecondsPerInvocation="4827"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="558" invocations="198" avgMicrosecondsPerInvocation="2821" maxMicrosecondsPerInvocation="47527" standardDeviationMircosecondsPerInvocation="5370"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="512" invocations="199" avgMicrosecondsPerInvocation="2574" maxMicrosecondsPerInvocation="31829" standardDeviationMircosecondsPerInvocation="4431"/>
-      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="507" invocations="582" avgMicrosecondsPerInvocation="871" maxMicrosecondsPerInvocation="30877" standardDeviationMircosecondsPerInvocation="2357"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="491" invocations="198" avgMicrosecondsPerInvocation="2480" maxMicrosecondsPerInvocation="53555" standardDeviationMircosecondsPerInvocation="5140"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="448" invocations="134" avgMicrosecondsPerInvocation="3343" maxMicrosecondsPerInvocation="44060" standardDeviationMircosecondsPerInvocation="7402"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="427" invocations="200" avgMicrosecondsPerInvocation="2136" maxMicrosecondsPerInvocation="24622" standardDeviationMircosecondsPerInvocation="4080"/>
-      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="339" invocations="399" avgMicrosecondsPerInvocation="851" maxMicrosecondsPerInvocation="50576" standardDeviationMircosecondsPerInvocation="2796"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="292" invocations="158" avgMicrosecondsPerInvocation="1851" maxMicrosecondsPerInvocation="19057" standardDeviationMircosecondsPerInvocation="2916"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="268" invocations="157" avgMicrosecondsPerInvocation="1707" maxMicrosecondsPerInvocation="71811" standardDeviationMircosecondsPerInvocation="6302"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="244" invocations="134" avgMicrosecondsPerInvocation="1822" maxMicrosecondsPerInvocation="34016" standardDeviationMircosecondsPerInvocation="4259"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="211" invocations="265" avgMicrosecondsPerInvocation="796" maxMicrosecondsPerInvocation="105273" standardDeviationMircosecondsPerInvocation="6591"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="193" invocations="134" avgMicrosecondsPerInvocation="1443" maxMicrosecondsPerInvocation="24892" standardDeviationMircosecondsPerInvocation="3165"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory" totalMilliseconds="180" invocations="20" avgMicrosecondsPerInvocation="9034" maxMicrosecondsPerInvocation="176633" standardDeviationMircosecondsPerInvocation="38450"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.ExplicitSerialization" totalMilliseconds="180" invocations="134" avgMicrosecondsPerInvocation="1346" maxMicrosecondsPerInvocation="78687" standardDeviationMircosecondsPerInvocation="7706"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="165" invocations="198" avgMicrosecondsPerInvocation="836" maxMicrosecondsPerInvocation="14090" standardDeviationMircosecondsPerInvocation="1709"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="165" invocations="134" avgMicrosecondsPerInvocation="1234" maxMicrosecondsPerInvocation="22298" standardDeviationMircosecondsPerInvocation="3177"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="1155" invocations="624" avgMicrosecondsPerInvocation="1851" maxMicrosecondsPerInvocation="43849" standardDeviationMircosecondsPerInvocation="3965"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="769" invocations="197" avgMicrosecondsPerInvocation="3905" maxMicrosecondsPerInvocation="254512" standardDeviationMircosecondsPerInvocation="18421"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="678" invocations="134" avgMicrosecondsPerInvocation="5066" maxMicrosecondsPerInvocation="96306" standardDeviationMircosecondsPerInvocation="13146"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="462" invocations="134" avgMicrosecondsPerInvocation="3448" maxMicrosecondsPerInvocation="83015" standardDeviationMircosecondsPerInvocation="9207"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="449" invocations="198" avgMicrosecondsPerInvocation="2268" maxMicrosecondsPerInvocation="43538" standardDeviationMircosecondsPerInvocation="4583"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="413" invocations="197" avgMicrosecondsPerInvocation="2100" maxMicrosecondsPerInvocation="29668" standardDeviationMircosecondsPerInvocation="3704"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="368" invocations="584" avgMicrosecondsPerInvocation="631" maxMicrosecondsPerInvocation="11467" standardDeviationMircosecondsPerInvocation="1402"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="361" invocations="199" avgMicrosecondsPerInvocation="1814" maxMicrosecondsPerInvocation="24103" standardDeviationMircosecondsPerInvocation="2955"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="345" invocations="200" avgMicrosecondsPerInvocation="1728" maxMicrosecondsPerInvocation="22725" standardDeviationMircosecondsPerInvocation="3140"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="335" invocations="198" avgMicrosecondsPerInvocation="1695" maxMicrosecondsPerInvocation="26904" standardDeviationMircosecondsPerInvocation="2651"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="303" invocations="134" avgMicrosecondsPerInvocation="2261" maxMicrosecondsPerInvocation="42599" standardDeviationMircosecondsPerInvocation="4804"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="268" invocations="399" avgMicrosecondsPerInvocation="672" maxMicrosecondsPerInvocation="25655" standardDeviationMircosecondsPerInvocation="1532"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="239" invocations="158" avgMicrosecondsPerInvocation="1514" maxMicrosecondsPerInvocation="16668" standardDeviationMircosecondsPerInvocation="2251"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="190" invocations="157" avgMicrosecondsPerInvocation="1216" maxMicrosecondsPerInvocation="30646" standardDeviationMircosecondsPerInvocation="3166"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="184" invocations="134" avgMicrosecondsPerInvocation="1380" maxMicrosecondsPerInvocation="29188" standardDeviationMircosecondsPerInvocation="3361"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory" totalMilliseconds="170" invocations="20" avgMicrosecondsPerInvocation="8516" maxMicrosecondsPerInvocation="166330" standardDeviationMircosecondsPerInvocation="36206"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="161" invocations="134" avgMicrosecondsPerInvocation="1207" maxMicrosecondsPerInvocation="14386" standardDeviationMircosecondsPerInvocation="2433"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="158" invocations="198" avgMicrosecondsPerInvocation="800" maxMicrosecondsPerInvocation="10565" standardDeviationMircosecondsPerInvocation="1419"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="151" invocations="265" avgMicrosecondsPerInvocation="571" maxMicrosecondsPerInvocation="85728" standardDeviationMircosecondsPerInvocation="5249"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.EqualsOperandShouldHaveClassCompatibleWithThis" totalMilliseconds="131" invocations="134" avgMicrosecondsPerInvocation="981" maxMicrosecondsPerInvocation="12560" standardDeviationMircosecondsPerInvocation="1946"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.LiveLocalStoreDataflowFactory" totalMilliseconds="118" invocations="192" avgMicrosecondsPerInvocation="616" maxMicrosecondsPerInvocation="7428" standardDeviationMircosecondsPerInvocation="974"/>
     </FindBugsProfile>
   </FindBugsSummary>
   <ClassFeatures></ClassFeatures>
