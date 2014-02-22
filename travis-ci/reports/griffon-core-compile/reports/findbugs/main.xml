@@ -1,89 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<BugCollection version="2.0.2" sequence="0" timestamp="1392757168070" analysisTimestamp="1392757168177" release="">
+<BugCollection version="2.0.2" sequence="0" timestamp="1393096371053" analysisTimestamp="1393096371159" release="">
   <Project projectName="">
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/griffon/transform/ThreadingAware.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/griffon/transform/MessageSourceAware.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/griffon/transform/EventPublisher.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/griffon/transform/Observable.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/griffon/transform/MVCAware.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/griffon/transform/ResourcesAware.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/griffon/transform/ResourceResolverAware.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/griffon/transform/Vetoable.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/ThreadingAwareConstants.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/MVCAwareConstants.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/MessageSourceAwareConstants.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/MethodDescriptor$Type.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/ResourceResolverAwareConstants.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/AnnotationHandlerFor.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/BaseConstants.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/MethodDescriptor$TypeParam.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/ResourcesAwareConstants.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/MethodDescriptor.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/AnnotationHandler.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/ObservableConstants.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/EventPublisherConstants.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/VetoableConstants.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/MethodDescriptor$Wildcard.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/processor/annotation/AnnotationHandlerProcessor.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/processor/annotation/AnnotationHandlerCollector.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/processor/annotation/AnnotationHandlerPersistence.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/processor/editor/PropertyEditorPersistence.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/processor/editor/PropertyEditorProcessor.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/processor/editor/PropertyEditorCollector.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/processor/artifact/ArtifactPersistence.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/processor/artifact/Artifact.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/processor/artifact/ArtifactCollector.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/processor/artifact/ArtifactProviderProcessor.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/griffon/metadata/ArtifactProviderFor.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/griffon/metadata/PropertyEditorFor.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/ThreadingAwareConstants.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/MethodDescriptor$TypeParam.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/MethodDescriptor.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/EventPublisherConstants.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/MethodDescriptor$Wildcard.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/MessageSourceAwareConstants.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/VetoableConstants.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/MVCAwareConstants.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/AnnotationHandlerFor.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/MethodDescriptor$Type.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/BaseConstants.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/ResourcesAwareConstants.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/AnnotationHandler.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/ResourceResolverAwareConstants.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/ObservableConstants.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/processor/artifact/ArtifactPersistence.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/processor/artifact/ArtifactProviderProcessor.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/processor/artifact/ArtifactCollector.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/processor/artifact/Artifact.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/processor/editor/PropertyEditorProcessor.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/processor/editor/PropertyEditorPersistence.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/processor/editor/PropertyEditorCollector.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/processor/annotation/AnnotationHandlerCollector.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/processor/annotation/AnnotationHandlerProcessor.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/org/codehaus/griffon/compile/core/processor/annotation/AnnotationHandlerPersistence.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/griffon/transform/Observable.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/griffon/transform/Vetoable.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/griffon/transform/MessageSourceAware.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/griffon/transform/ThreadingAware.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/griffon/transform/ResourceResolverAware.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/griffon/transform/EventPublisher.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/griffon/transform/ResourcesAware.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/classes/main/griffon/transform/MVCAware.class</Jar>
     <AuxClasspathEntry>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core/build/libs/griffon-core-2.0.0-SNAPSHOT.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/org.kordamp.jipsy/jipsy/0.3.0/84c5383dce1639f27671a287f88b45d03f1d42ac/jipsy-0.3.0.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/javax.annotation/jsr250-api/1.0/5025422767732a1ab45d93abfea846513d742dcf/jsr250-api-1.0.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.2/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.2.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.5/6b262da268f8ad9eff941b25503a9198f0a0ac93/slf4j-api-1.7.5.jar</AuxClasspathEntry>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/transform/ResourcesAware.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/transform/ThreadingAware.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/transform/ResourceResolverAware.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/transform/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/transform/Observable.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/transform/MVCAware.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/transform/EventPublisher.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/transform/MessageSourceAware.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/transform/Vetoable.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/metadata/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/metadata/ArtifactProviderFor.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/metadata/PropertyEditorFor.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/ObservableConstants.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/VetoableConstants.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/ThreadingAwareConstants.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/ResourceResolverAwareConstants.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/MethodDescriptor.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/MessageSourceAwareConstants.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/MVCAwareConstants.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/MessageSourceAwareConstants.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/EventPublisherConstants.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/AnnotationHandlerFor.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/ResourceResolverAwareConstants.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/AnnotationHandler.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/BaseConstants.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/ThreadingAwareConstants.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/ObservableConstants.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/MethodDescriptor.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/AnnotationHandlerFor.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/package-info.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/ResourcesAwareConstants.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/artifact/ArtifactCollector.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/artifact/ArtifactPersistence.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/artifact/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/artifact/ArtifactProviderProcessor.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/artifact/Artifact.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/editor/PropertyEditorPersistence.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/editor/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/BaseConstants.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/annotation/AnnotationHandlerPersistence.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/annotation/AnnotationHandlerCollector.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/annotation/AnnotationHandlerProcessor.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/annotation/package-info.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/editor/PropertyEditorCollector.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/editor/PropertyEditorProcessor.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/annotation/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/annotation/AnnotationHandlerCollector.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/annotation/AnnotationHandlerPersistence.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/annotation/AnnotationHandlerProcessor.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/editor/PropertyEditorPersistence.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/editor/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/artifact/Artifact.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/artifact/ArtifactCollector.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/artifact/ArtifactPersistence.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/artifact/ArtifactProviderProcessor.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/org/codehaus/griffon/compile/core/processor/artifact/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/metadata/ArtifactProviderFor.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/metadata/PropertyEditorFor.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/metadata/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/transform/MVCAware.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/transform/ResourcesAware.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/transform/Vetoable.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/transform/MessageSourceAware.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/transform/EventPublisher.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/transform/ThreadingAware.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/transform/ResourceResolverAware.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/transform/Observable.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/src/main/java/griffon/transform/package-info.java</SrcDir>
   </Project>
   <Errors errors="0" missingClasses="0"></Errors>
-  <FindBugsSummary timestamp="Tue, 18 Feb 2014 20:59:28 +0000" total_classes="35" referenced_classes="124" total_bugs="0" total_size="928" num_packages="6" vm_version="24.51-b03" cpu_seconds="38.51" clock_seconds="15.80" peak_mbytes="245.59" alloc_mbytes="683.00" gc_seconds="0.22">
+  <FindBugsSummary timestamp="Sat, 22 Feb 2014 19:12:51 +0000" total_classes="35" referenced_classes="124" total_bugs="0" total_size="937" num_packages="6" vm_version="24.51-b03" cpu_seconds="37.50" clock_seconds="14.28" peak_mbytes="259.82" alloc_mbytes="683.00" gc_seconds="0.28">
     <PackageStats package="griffon.metadata" total_bugs="0" total_types="2" total_size="4">
       <ClassStats class="griffon.metadata.ArtifactProviderFor" sourceFile="ArtifactProviderFor.java" interface="true" size="2" bugs="0"/>
       <ClassStats class="griffon.metadata.PropertyEditorFor" sourceFile="PropertyEditorFor.java" interface="true" size="2" bugs="0"/>
@@ -98,14 +98,14 @@
       <ClassStats class="griffon.transform.ThreadingAware" sourceFile="ThreadingAware.java" interface="true" size="1" bugs="0"/>
       <ClassStats class="griffon.transform.Vetoable" sourceFile="Vetoable.java" interface="true" size="1" bugs="0"/>
     </PackageStats>
-    <PackageStats package="org.codehaus.griffon.compile.core" total_bugs="0" total_types="15" total_size="404">
+    <PackageStats package="org.codehaus.griffon.compile.core" total_bugs="0" total_types="15" total_size="413">
       <ClassStats class="org.codehaus.griffon.compile.core.AnnotationHandler" sourceFile="AnnotationHandler.java" interface="true" size="1" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.compile.core.AnnotationHandlerFor" sourceFile="AnnotationHandlerFor.java" interface="true" size="2" bugs="0"/>
-      <ClassStats class="org.codehaus.griffon.compile.core.BaseConstants" sourceFile="BaseConstants.java" interface="true" size="20" bugs="0"/>
+      <ClassStats class="org.codehaus.griffon.compile.core.BaseConstants" sourceFile="BaseConstants.java" interface="true" size="22" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.compile.core.EventPublisherConstants" sourceFile="EventPublisherConstants.java" interface="true" size="18" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.compile.core.MVCAwareConstants" sourceFile="MVCAwareConstants.java" interface="true" size="20" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.compile.core.MessageSourceAwareConstants" sourceFile="MessageSourceAwareConstants.java" interface="true" size="11" bugs="0"/>
-      <ClassStats class="org.codehaus.griffon.compile.core.MethodDescriptor" sourceFile="MethodDescriptor.java" interface="false" size="156" bugs="0"/>
+      <ClassStats class="org.codehaus.griffon.compile.core.MethodDescriptor" sourceFile="MethodDescriptor.java" interface="false" size="163" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.compile.core.MethodDescriptor$Type" sourceFile="MethodDescriptor.java" interface="false" size="54" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.compile.core.MethodDescriptor$TypeParam" sourceFile="MethodDescriptor.java" interface="false" size="22" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.compile.core.MethodDescriptor$Wildcard" sourceFile="MethodDescriptor.java" interface="false" size="27" bugs="0"/>
@@ -132,28 +132,26 @@
       <ClassStats class="org.codehaus.griffon.compile.core.processor.editor.PropertyEditorProcessor" sourceFile="PropertyEditorProcessor.java" interface="false" size="87" bugs="0"/>
     </PackageStats>
     <FindBugsProfile>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="1582" invocations="711" avgMicrosecondsPerInvocation="2225" maxMicrosecondsPerInvocation="41065" standardDeviationMircosecondsPerInvocation="4555"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="943" invocations="124" avgMicrosecondsPerInvocation="7606" maxMicrosecondsPerInvocation="111063" standardDeviationMircosecondsPerInvocation="17240"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="795" invocations="152" avgMicrosecondsPerInvocation="5236" maxMicrosecondsPerInvocation="92708" standardDeviationMircosecondsPerInvocation="13124"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="740" invocations="152" avgMicrosecondsPerInvocation="4871" maxMicrosecondsPerInvocation="99392" standardDeviationMircosecondsPerInvocation="12851"/>
-      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="735" invocations="152" avgMicrosecondsPerInvocation="4836" maxMicrosecondsPerInvocation="90694" standardDeviationMircosecondsPerInvocation="12836"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="705" invocations="155" avgMicrosecondsPerInvocation="4550" maxMicrosecondsPerInvocation="81849" standardDeviationMircosecondsPerInvocation="11477"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="699" invocations="158" avgMicrosecondsPerInvocation="4427" maxMicrosecondsPerInvocation="82623" standardDeviationMircosecondsPerInvocation="10540"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="614" invocations="152" avgMicrosecondsPerInvocation="4046" maxMicrosecondsPerInvocation="116049" standardDeviationMircosecondsPerInvocation="13374"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="538" invocations="124" avgMicrosecondsPerInvocation="4345" maxMicrosecondsPerInvocation="45450" standardDeviationMircosecondsPerInvocation="8482"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="424" invocations="137" avgMicrosecondsPerInvocation="3097" maxMicrosecondsPerInvocation="59293" standardDeviationMircosecondsPerInvocation="7583"/>
-      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="418" invocations="667" avgMicrosecondsPerInvocation="628" maxMicrosecondsPerInvocation="15332" standardDeviationMircosecondsPerInvocation="1523"/>
-      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="392" invocations="385" avgMicrosecondsPerInvocation="1019" maxMicrosecondsPerInvocation="40640" standardDeviationMircosecondsPerInvocation="2365"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="292" invocations="124" avgMicrosecondsPerInvocation="2360" maxMicrosecondsPerInvocation="24961" standardDeviationMircosecondsPerInvocation="4163"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="264" invocations="152" avgMicrosecondsPerInvocation="1741" maxMicrosecondsPerInvocation="27121" standardDeviationMircosecondsPerInvocation="4192"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="236" invocations="152" avgMicrosecondsPerInvocation="1556" maxMicrosecondsPerInvocation="47430" standardDeviationMircosecondsPerInvocation="4405"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="201" invocations="158" avgMicrosecondsPerInvocation="1276" maxMicrosecondsPerInvocation="77956" standardDeviationMircosecondsPerInvocation="6469"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="191" invocations="124" avgMicrosecondsPerInvocation="1546" maxMicrosecondsPerInvocation="30349" standardDeviationMircosecondsPerInvocation="3796"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="181" invocations="124" avgMicrosecondsPerInvocation="1463" maxMicrosecondsPerInvocation="14010" standardDeviationMircosecondsPerInvocation="2742"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.LiveLocalStoreDataflowFactory" totalMilliseconds="181" invocations="150" avgMicrosecondsPerInvocation="1208" maxMicrosecondsPerInvocation="23733" standardDeviationMircosecondsPerInvocation="3053"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory" totalMilliseconds="169" invocations="18" avgMicrosecondsPerInvocation="9406" maxMicrosecondsPerInvocation="166667" standardDeviationMircosecondsPerInvocation="38141"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="165" invocations="124" avgMicrosecondsPerInvocation="1337" maxMicrosecondsPerInvocation="16301" standardDeviationMircosecondsPerInvocation="2873"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.ExplicitSerialization" totalMilliseconds="144" invocations="124" avgMicrosecondsPerInvocation="1162" maxMicrosecondsPerInvocation="45995" standardDeviationMircosecondsPerInvocation="5965"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="1602" invocations="711" avgMicrosecondsPerInvocation="2253" maxMicrosecondsPerInvocation="42730" standardDeviationMircosecondsPerInvocation="4747"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="954" invocations="124" avgMicrosecondsPerInvocation="7694" maxMicrosecondsPerInvocation="90713" standardDeviationMircosecondsPerInvocation="16559"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="791" invocations="160" avgMicrosecondsPerInvocation="4943" maxMicrosecondsPerInvocation="194727" standardDeviationMircosecondsPerInvocation="17644"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="745" invocations="154" avgMicrosecondsPerInvocation="4840" maxMicrosecondsPerInvocation="62517" standardDeviationMircosecondsPerInvocation="10814"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="635" invocations="154" avgMicrosecondsPerInvocation="4126" maxMicrosecondsPerInvocation="82020" standardDeviationMircosecondsPerInvocation="10489"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="624" invocations="154" avgMicrosecondsPerInvocation="4057" maxMicrosecondsPerInvocation="65938" standardDeviationMircosecondsPerInvocation="9731"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="578" invocations="124" avgMicrosecondsPerInvocation="4667" maxMicrosecondsPerInvocation="53174" standardDeviationMircosecondsPerInvocation="9374"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="521" invocations="154" avgMicrosecondsPerInvocation="3384" maxMicrosecondsPerInvocation="80994" standardDeviationMircosecondsPerInvocation="10605"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="488" invocations="157" avgMicrosecondsPerInvocation="3111" maxMicrosecondsPerInvocation="45163" standardDeviationMircosecondsPerInvocation="7096"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="418" invocations="667" avgMicrosecondsPerInvocation="627" maxMicrosecondsPerInvocation="13381" standardDeviationMircosecondsPerInvocation="1389"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="396" invocations="388" avgMicrosecondsPerInvocation="1021" maxMicrosecondsPerInvocation="39794" standardDeviationMircosecondsPerInvocation="2320"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="354" invocations="139" avgMicrosecondsPerInvocation="2548" maxMicrosecondsPerInvocation="30756" standardDeviationMircosecondsPerInvocation="5492"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="307" invocations="124" avgMicrosecondsPerInvocation="2479" maxMicrosecondsPerInvocation="25242" standardDeviationMircosecondsPerInvocation="4301"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="220" invocations="154" avgMicrosecondsPerInvocation="1434" maxMicrosecondsPerInvocation="22656" standardDeviationMircosecondsPerInvocation="3462"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="216" invocations="152" avgMicrosecondsPerInvocation="1427" maxMicrosecondsPerInvocation="29797" standardDeviationMircosecondsPerInvocation="3148"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="216" invocations="124" avgMicrosecondsPerInvocation="1748" maxMicrosecondsPerInvocation="33615" standardDeviationMircosecondsPerInvocation="4194"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="183" invocations="124" avgMicrosecondsPerInvocation="1481" maxMicrosecondsPerInvocation="19917" standardDeviationMircosecondsPerInvocation="2919"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="181" invocations="124" avgMicrosecondsPerInvocation="1466" maxMicrosecondsPerInvocation="19180" standardDeviationMircosecondsPerInvocation="3065"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="173" invocations="160" avgMicrosecondsPerInvocation="1084" maxMicrosecondsPerInvocation="84087" standardDeviationMircosecondsPerInvocation="6723"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ExplicitSerialization" totalMilliseconds="155" invocations="124" avgMicrosecondsPerInvocation="1252" maxMicrosecondsPerInvocation="44806" standardDeviationMircosecondsPerInvocation="6187"/>
     </FindBugsProfile>
   </FindBugsSummary>
   <ClassFeatures></ClassFeatures>

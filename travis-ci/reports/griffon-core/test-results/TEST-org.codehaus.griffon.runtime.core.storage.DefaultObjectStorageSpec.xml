@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.codehaus.griffon.runtime.core.storage.DefaultObjectStorageSpec" tests="10" failures="0" errors="0" timestamp="2014-02-18T20:59:17" hostname="testing-worker-linux-9-1-26937-linux-3-19139712" time="0.021">
+<testsuite name="org.codehaus.griffon.runtime.core.storage.DefaultObjectStorageSpec" tests="10" failures="0" errors="0" timestamp="2014-02-22T19:12:32" hostname="testing-worker-linux-6-1-10096-linux-6-19406446" time="0.025">
   <properties/>
-  <testcase name="Query empty storage with key 'null'" classname="org.codehaus.griffon.runtime.core.storage.DefaultObjectStorageSpec" time="0.002"/>
-  <testcase name="Query empty storage with key ''" classname="org.codehaus.griffon.runtime.core.storage.DefaultObjectStorageSpec" time="0.0"/>
+  <testcase name="Query empty storage with key 'null'" classname="org.codehaus.griffon.runtime.core.storage.DefaultObjectStorageSpec" time="0.003"/>
+  <testcase name="Query empty storage with key ''" classname="org.codehaus.griffon.runtime.core.storage.DefaultObjectStorageSpec" time="0.001"/>
   <testcase name="Query empty storage with key ' '" classname="org.codehaus.griffon.runtime.core.storage.DefaultObjectStorageSpec" time="0.001"/>
-  <testcase name="Query empty storage with key 'default'" classname="org.codehaus.griffon.runtime.core.storage.DefaultObjectStorageSpec" time="0.001"/>
+  <testcase name="Query empty storage with key 'default'" classname="org.codehaus.griffon.runtime.core.storage.DefaultObjectStorageSpec" time="0.002"/>
   <testcase name="Query empty storage with key 'key'" classname="org.codehaus.griffon.runtime.core.storage.DefaultObjectStorageSpec" time="0.001"/>
   <testcase name="Update empty storage with key 'null'" classname="org.codehaus.griffon.runtime.core.storage.DefaultObjectStorageSpec" time="0.004"/>
   <testcase name="Update empty storage with key ''" classname="org.codehaus.griffon.runtime.core.storage.DefaultObjectStorageSpec" time="0.001"/>

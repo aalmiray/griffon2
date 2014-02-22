@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<BugCollection version="2.0.2" sequence="0" timestamp="1392757345583" analysisTimestamp="1392757345739" release="">
+<BugCollection version="2.0.2" sequence="0" timestamp="1393096511421" analysisTimestamp="1393096511501" release="">
   <Project projectName="">
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/ConfigReader$Provider.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/Xml2Groovy.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/ConfigReader$_parse_closure5.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/ConfigReader$_parse_closure3.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/BindUtils$BindingBuilder$1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/CompositeBuilder$1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/ConfigReader$_parse_closure1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/CompositeBuilder$2.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/ConfigReader$_parse_closure2.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/ConfigReader.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/BindUtils$BindingBuilder.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/ConfigReader$_parse_closure6.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/BindUtils.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/BuilderCustomizer.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/CompositeBuilder.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/ConfigReader$_parse_closure4.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/builder/core/CoreBuilderCustomizer.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/builder/core/factory/MetaComponentFactory$_newInstance_closure1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/builder/core/factory/RootFactory.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/builder/core/factory/MetaComponentFactory.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/org/codehaus/griffon/runtime/groovy/GroovyModule.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/org/codehaus/griffon/runtime/groovy/GroovyAddon.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/org/codehaus/griffon/runtime/groovy/artifact/AbstractGriffonArtifactScript.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/org/codehaus/griffon/runtime/groovy/artifact/AbstractGriffonMvcArtifactScript.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/org/codehaus/griffon/runtime/groovy/util/GroovyScriptResourceBundle$1.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/org/codehaus/griffon/runtime/groovy/GroovyModule.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/org/codehaus/griffon/runtime/groovy/util/GroovyScriptResourceBundle.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/org/codehaus/griffon/runtime/groovy/util/GroovyScriptResourceBundle$1.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/org/codehaus/griffon/runtime/groovy/util/GroovyAwareCompositeResourceBundleBuilder.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/org/codehaus/griffon/runtime/groovy/mvc/GroovyAwareMVCGroup$1.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/org/codehaus/griffon/runtime/groovy/mvc/GroovyAwareMVCGroup.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/org/codehaus/griffon/runtime/groovy/mvc/GroovyAwareMVCGroupManager.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/org/codehaus/griffon/runtime/groovy/view/AbstractBuilderCustomizer.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/org/codehaus/griffon/runtime/groovy/mvc/GroovyAwareMVCGroup$1.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/org/codehaus/griffon/runtime/groovy/view/AbstractGriffonViewScript.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/org/codehaus/griffon/runtime/groovy/view/AbstractBuilderCustomizer.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/org/codehaus/griffon/runtime/groovy/artifact/AbstractGriffonArtifactScript.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/org/codehaus/griffon/runtime/groovy/artifact/AbstractGriffonMvcArtifactScript.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/builder/core/CoreBuilderCustomizer.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/builder/core/factory/MetaComponentFactory$_newInstance_closure1.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/builder/core/factory/MetaComponentFactory.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/builder/core/factory/RootFactory.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/CompositeBuilder.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/ConfigReader$Provider.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/ConfigReader$_parse_closure2.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/ConfigReader$_parse_closure6.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/BindUtils.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/Xml2Groovy.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/ConfigReader.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/ConfigReader$_parse_closure1.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/ConfigReader$_parse_closure5.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/BindUtils$BindingBuilder.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/CompositeBuilder$2.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/BindUtils$BindingBuilder$1.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/ConfigReader$_parse_closure4.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/ConfigReader$_parse_closure3.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/CompositeBuilder$1.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/griffon/util/BuilderCustomizer.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/classes/main/META-INF/services/griffon.core.injection.Module</Jar>
     <AuxClasspathEntry>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core/build/libs/griffon-core-2.0.0-SNAPSHOT.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-all/2.2.1/7ae565d50d24167c4e5d74b96f4126d4c56f16f/groovy-all-2.2.1.jar</AuxClasspathEntry>
@@ -43,29 +43,29 @@
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.5/6b262da268f8ad9eff941b25503a9198f0a0ac93/slf4j-api-1.7.5.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/libs/griffon-core-compile-2.0.0-SNAPSHOT.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/org.kordamp.jipsy/jipsy/0.3.0/84c5383dce1639f27671a287f88b45d03f1d42ac/jipsy-0.3.0.jar</AuxClasspathEntry>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/griffon/util/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/griffon/util/BuilderCustomizer.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/griffon/util/BindUtils.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/griffon/util/CompositeBuilder.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/griffon/util/Xml2Groovy.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/griffon/builder/core/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/griffon/builder/core/CoreBuilderCustomizer.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/griffon/builder/core/factory/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/package-info.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/GroovyAddon.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/GroovyModule.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/artifact/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/artifact/AbstractGriffonMvcArtifactScript.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/artifact/AbstractGriffonArtifactScript.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/util/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/util/GroovyScriptResourceBundle.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/package-info.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/util/GroovyAwareCompositeResourceBundleBuilder.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/mvc/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/util/GroovyScriptResourceBundle.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/util/package-info.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/mvc/GroovyAwareMVCGroup.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/mvc/GroovyAwareMVCGroupManager.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/view/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/mvc/package-info.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/view/AbstractBuilderCustomizer.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/view/AbstractGriffonViewScript.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/view/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/artifact/AbstractGriffonArtifactScript.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/artifact/AbstractGriffonMvcArtifactScript.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/org/codehaus/griffon/runtime/groovy/artifact/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/griffon/builder/core/CoreBuilderCustomizer.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/griffon/builder/core/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/griffon/builder/core/factory/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/griffon/util/BuilderCustomizer.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/griffon/util/CompositeBuilder.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/griffon/util/BindUtils.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/griffon/util/Xml2Groovy.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy/griffon/util/package-info.java</SrcDir>
   </Project>
   <BugInstance type="UMAC_UNCALLABLE_METHOD_OF_ANONYMOUS_CLASS" priority="1" abbrev="UMAC" category="CORRECTNESS">
     <Class classname="griffon.util.CompositeBuilder$1">
@@ -140,7 +140,7 @@
       <StackTrace>org.gradle.process.internal.launcher.GradleWorkerMain.main(GradleWorkerMain.java:37)</StackTrace>
     </Error>
   </Errors>
-  <FindBugsSummary timestamp="Tue, 18 Feb 2014 21:02:25 +0000" total_classes="32" referenced_classes="245" total_bugs="4" total_size="1216" num_packages="8" vm_version="24.51-b03" cpu_seconds="61.90" clock_seconds="25.36" peak_mbytes="305.08" alloc_mbytes="683.00" gc_seconds="1.87" priority_1="4">
+  <FindBugsSummary timestamp="Sat, 22 Feb 2014 19:15:11 +0000" total_classes="32" referenced_classes="245" total_bugs="4" total_size="1216" num_packages="8" vm_version="24.51-b03" cpu_seconds="55.74" clock_seconds="20.56" peak_mbytes="303.27" alloc_mbytes="683.00" gc_seconds="0.94" priority_1="4">
     <PackageStats package="griffon.builder.core" total_bugs="0" total_types="1" total_size="8">
       <ClassStats class="griffon.builder.core.CoreBuilderCustomizer" sourceFile="CoreBuilderCustomizer.java" interface="false" size="8" bugs="0"/>
     </PackageStats>
@@ -190,23 +190,23 @@
       <ClassStats class="org.codehaus.griffon.runtime.groovy.view.AbstractGriffonViewScript" sourceFile="AbstractGriffonViewScript.java" interface="false" size="12" bugs="0"/>
     </PackageStats>
     <FindBugsProfile>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="3021" invocations="245" avgMicrosecondsPerInvocation="12331" maxMicrosecondsPerInvocation="1463134" standardDeviationMircosecondsPerInvocation="95971"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="2662" invocations="245" avgMicrosecondsPerInvocation="10869" maxMicrosecondsPerInvocation="2258887" standardDeviationMircosecondsPerInvocation="144113"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="2648" invocations="1065" avgMicrosecondsPerInvocation="2487" maxMicrosecondsPerInvocation="285375" standardDeviationMircosecondsPerInvocation="11784"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="1105" invocations="245" avgMicrosecondsPerInvocation="4512" maxMicrosecondsPerInvocation="356087" standardDeviationMircosecondsPerInvocation="25900"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="843" invocations="387" avgMicrosecondsPerInvocation="2179" maxMicrosecondsPerInvocation="286492" standardDeviationMircosecondsPerInvocation="14868"/>
-      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="781" invocations="385" avgMicrosecondsPerInvocation="2030" maxMicrosecondsPerInvocation="176862" standardDeviationMircosecondsPerInvocation="9903"/>
-      <ClassProfile name="edu.umd.cs.findbugs.ba.obl.ObligationAnalysis" totalMilliseconds="763" invocations="48" avgMicrosecondsPerInvocation="15897" maxMicrosecondsPerInvocation="702556" standardDeviationMircosecondsPerInvocation="100172"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="754" invocations="385" avgMicrosecondsPerInvocation="1959" maxMicrosecondsPerInvocation="331459" standardDeviationMircosecondsPerInvocation="17111"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="749" invocations="400" avgMicrosecondsPerInvocation="1874" maxMicrosecondsPerInvocation="209814" standardDeviationMircosecondsPerInvocation="10994"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="694" invocations="400" avgMicrosecondsPerInvocation="1736" maxMicrosecondsPerInvocation="199327" standardDeviationMircosecondsPerInvocation="10380"/>
-      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="666" invocations="1026" avgMicrosecondsPerInvocation="649" maxMicrosecondsPerInvocation="60977" standardDeviationMircosecondsPerInvocation="2503"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="624" invocations="387" avgMicrosecondsPerInvocation="1614" maxMicrosecondsPerInvocation="112544" standardDeviationMircosecondsPerInvocation="6353"/>
-      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="623" invocations="976" avgMicrosecondsPerInvocation="638" maxMicrosecondsPerInvocation="44042" standardDeviationMircosecondsPerInvocation="2315"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="445" invocations="307" avgMicrosecondsPerInvocation="1449" maxMicrosecondsPerInvocation="57750" standardDeviationMircosecondsPerInvocation="4916"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="439" invocations="245" avgMicrosecondsPerInvocation="1792" maxMicrosecondsPerInvocation="103945" standardDeviationMircosecondsPerInvocation="8234"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="402" invocations="345" avgMicrosecondsPerInvocation="1167" maxMicrosecondsPerInvocation="127485" standardDeviationMircosecondsPerInvocation="7038"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="316" invocations="245" avgMicrosecondsPerInvocation="1293" maxMicrosecondsPerInvocation="64265" standardDeviationMircosecondsPerInvocation="5276"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="2821" invocations="245" avgMicrosecondsPerInvocation="11517" maxMicrosecondsPerInvocation="1544478" standardDeviationMircosecondsPerInvocation="100593"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="2016" invocations="1064" avgMicrosecondsPerInvocation="1895" maxMicrosecondsPerInvocation="247633" standardDeviationMircosecondsPerInvocation="9092"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="1846" invocations="245" avgMicrosecondsPerInvocation="7536" maxMicrosecondsPerInvocation="1551446" standardDeviationMircosecondsPerInvocation="98935"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="924" invocations="387" avgMicrosecondsPerInvocation="2387" maxMicrosecondsPerInvocation="371744" standardDeviationMircosecondsPerInvocation="19631"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="788" invocations="385" avgMicrosecondsPerInvocation="2046" maxMicrosecondsPerInvocation="144464" standardDeviationMircosecondsPerInvocation="9253"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="786" invocations="387" avgMicrosecondsPerInvocation="2033" maxMicrosecondsPerInvocation="247628" standardDeviationMircosecondsPerInvocation="13001"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="775" invocations="385" avgMicrosecondsPerInvocation="2014" maxMicrosecondsPerInvocation="344459" standardDeviationMircosecondsPerInvocation="17814"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="725" invocations="245" avgMicrosecondsPerInvocation="2960" maxMicrosecondsPerInvocation="192252" standardDeviationMircosecondsPerInvocation="13957"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="673" invocations="400" avgMicrosecondsPerInvocation="1683" maxMicrosecondsPerInvocation="219101" standardDeviationMircosecondsPerInvocation="11316"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="647" invocations="400" avgMicrosecondsPerInvocation="1619" maxMicrosecondsPerInvocation="195178" standardDeviationMircosecondsPerInvocation="10147"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="471" invocations="976" avgMicrosecondsPerInvocation="483" maxMicrosecondsPerInvocation="24561" standardDeviationMircosecondsPerInvocation="1288"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="462" invocations="1025" avgMicrosecondsPerInvocation="450" maxMicrosecondsPerInvocation="43016" standardDeviationMircosecondsPerInvocation="1603"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="401" invocations="307" avgMicrosecondsPerInvocation="1308" maxMicrosecondsPerInvocation="52558" standardDeviationMircosecondsPerInvocation="4116"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="372" invocations="345" avgMicrosecondsPerInvocation="1080" maxMicrosecondsPerInvocation="118072" standardDeviationMircosecondsPerInvocation="6497"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="349" invocations="245" avgMicrosecondsPerInvocation="1426" maxMicrosecondsPerInvocation="76950" standardDeviationMircosecondsPerInvocation="6222"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="249" invocations="387" avgMicrosecondsPerInvocation="645" maxMicrosecondsPerInvocation="77948" standardDeviationMircosecondsPerInvocation="4077"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="213" invocations="245" avgMicrosecondsPerInvocation="871" maxMicrosecondsPerInvocation="21778" standardDeviationMircosecondsPerInvocation="2517"/>
     </FindBugsProfile>
   </FindBugsSummary>
   <ClassFeatures></ClassFeatures>

@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="griffon.util.ConfigReaderTests" tests="23" failures="0" errors="0" timestamp="2014-02-18T21:03:09" hostname="testing-worker-linux-9-1-26937-linux-3-19139712" time="7.241">
+<testsuite name="griffon.util.ConfigReaderTests" tests="23" failures="0" errors="0" timestamp="2014-02-22T19:15:45" hostname="testing-worker-linux-6-1-10096-linux-6-19406446" time="3.793">
   <properties/>
-  <testcase name="testParseProperties" classname="griffon.util.ConfigReaderTests" time="0.213"/>
-  <testcase name="testToProperties" classname="griffon.util.ConfigReaderTests" time="1.184"/>
-  <testcase name="testNestedConditionaBlocks" classname="griffon.util.ConfigReaderTests" time="1.952"/>
-  <testcase name="testScopedPropertiesWithNesting" classname="griffon.util.ConfigReaderTests" time="0.127"/>
-  <testcase name="testScopedProperties" classname="griffon.util.ConfigReaderTests" time="0.108"/>
-  <testcase name="testCustomConditionalBlocks" classname="griffon.util.ConfigReaderTests" time="0.28"/>
-  <testcase name="testTwoSameBlocks" classname="griffon.util.ConfigReaderTests" time="0.193"/>
-  <testcase name="testConsecutiveReaderValues" classname="griffon.util.ConfigReaderTests" time="0.14"/>
-  <testcase name="testScopedVariableReusage" classname="griffon.util.ConfigReaderTests" time="0.259"/>
-  <testcase name="testLog4jConfiguration" classname="griffon.util.ConfigReaderTests" time="0.241"/>
-  <testcase name="testSimpleProperties" classname="griffon.util.ConfigReaderTests" time="0.133"/>
-  <testcase name="testConditionalOverrides" classname="griffon.util.ConfigReaderTests" time="0.417"/>
-  <testcase name="testSerializeConfig" classname="griffon.util.ConfigReaderTests" time="0.657"/>
-  <testcase name="testConfigTokensAsStrings" classname="griffon.util.ConfigReaderTests" time="0.078"/>
-  <testcase name="testEnvironmentProperties2" classname="griffon.util.ConfigReaderTests" time="0.191"/>
-  <testcase name="testConfigReaderNestedValues" classname="griffon.util.ConfigReaderTests" time="0.128"/>
-  <testcase name="testEnvironmentSpecificConfig" classname="griffon.util.ConfigReaderTests" time="0.486"/>
-  <testcase name="testFlattenConfig" classname="griffon.util.ConfigReaderTests" time="0.106"/>
-  <testcase name="testNotProperlyNestedPropertiesArePreserved" classname="griffon.util.ConfigReaderTests" time="0.005"/>
-  <testcase name="testConfigInterReferencing" classname="griffon.util.ConfigReaderTests" time="0.064"/>
-  <testcase name="testVariableAssignments" classname="griffon.util.ConfigReaderTests" time="0.083"/>
-  <testcase name="testConfigBinding" classname="griffon.util.ConfigReaderTests" time="0.047"/>
-  <testcase name="testSameElementNestingWithoutDuplication" classname="griffon.util.ConfigReaderTests" time="0.116"/>
+  <testcase name="testParseProperties" classname="griffon.util.ConfigReaderTests" time="0.058"/>
+  <testcase name="testToProperties" classname="griffon.util.ConfigReaderTests" time="0.192"/>
+  <testcase name="testNestedConditionaBlocks" classname="griffon.util.ConfigReaderTests" time="1.217"/>
+  <testcase name="testScopedPropertiesWithNesting" classname="griffon.util.ConfigReaderTests" time="0.094"/>
+  <testcase name="testScopedProperties" classname="griffon.util.ConfigReaderTests" time="0.086"/>
+  <testcase name="testCustomConditionalBlocks" classname="griffon.util.ConfigReaderTests" time="0.198"/>
+  <testcase name="testTwoSameBlocks" classname="griffon.util.ConfigReaderTests" time="0.126"/>
+  <testcase name="testConsecutiveReaderValues" classname="griffon.util.ConfigReaderTests" time="0.088"/>
+  <testcase name="testScopedVariableReusage" classname="griffon.util.ConfigReaderTests" time="0.164"/>
+  <testcase name="testLog4jConfiguration" classname="griffon.util.ConfigReaderTests" time="0.14"/>
+  <testcase name="testSimpleProperties" classname="griffon.util.ConfigReaderTests" time="0.045"/>
+  <testcase name="testConditionalOverrides" classname="griffon.util.ConfigReaderTests" time="0.216"/>
+  <testcase name="testSerializeConfig" classname="griffon.util.ConfigReaderTests" time="0.196"/>
+  <testcase name="testConfigTokensAsStrings" classname="griffon.util.ConfigReaderTests" time="0.048"/>
+  <testcase name="testEnvironmentProperties2" classname="griffon.util.ConfigReaderTests" time="0.134"/>
+  <testcase name="testConfigReaderNestedValues" classname="griffon.util.ConfigReaderTests" time="0.102"/>
+  <testcase name="testEnvironmentSpecificConfig" classname="griffon.util.ConfigReaderTests" time="0.292"/>
+  <testcase name="testFlattenConfig" classname="griffon.util.ConfigReaderTests" time="0.093"/>
+  <testcase name="testNotProperlyNestedPropertiesArePreserved" classname="griffon.util.ConfigReaderTests" time="0.011"/>
+  <testcase name="testConfigInterReferencing" classname="griffon.util.ConfigReaderTests" time="0.071"/>
+  <testcase name="testVariableAssignments" classname="griffon.util.ConfigReaderTests" time="0.071"/>
+  <testcase name="testConfigBinding" classname="griffon.util.ConfigReaderTests" time="0.033"/>
+  <testcase name="testSameElementNestingWithoutDuplication" classname="griffon.util.ConfigReaderTests" time="0.095"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

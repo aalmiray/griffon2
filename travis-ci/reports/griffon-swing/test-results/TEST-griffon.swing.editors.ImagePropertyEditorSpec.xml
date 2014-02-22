@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="griffon.swing.editors.ImagePropertyEditorSpec" tests="14" failures="0" errors="0" timestamp="2014-02-18T21:10:38" hostname="testing-worker-linux-9-1-26937-linux-3-19139712" time="0.04">
+<testsuite name="griffon.swing.editors.ImagePropertyEditorSpec" tests="14" failures="0" errors="0" timestamp="2014-02-22T19:21:56" hostname="testing-worker-linux-6-1-10096-linux-6-19406446" time="0.027">
   <properties/>
-  <testcase name="Image format 'null' should be equal to null" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.015"/>
-  <testcase name="Image format '' should be equal to null" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.001"/>
+  <testcase name="Image format 'null' should be equal to null" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.01"/>
+  <testcase name="Image format '' should be equal to null" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.0"/>
   <testcase name="Image format ' ' should be equal to null" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.001"/>
-  <testcase name="Invalid image format 'garbage'" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.002"/>
+  <testcase name="Invalid image format 'garbage'" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.001"/>
   <testcase name="Invalid image format '[]'" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.001"/>
-  <testcase name="Invalid image format '[1]'" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.0"/>
+  <testcase name="Invalid image format '[1]'" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.001"/>
   <testcase name="Invalid image format '[1, 2]'" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.0"/>
-  <testcase name="Invalid image format '[1, 2, 3, 4, 5]'" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.001"/>
-  <testcase name="Invalid image format '[java.lang.Object@13d3589e]'" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.0"/>
+  <testcase name="Invalid image format '[1, 2, 3, 4, 5]'" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.0"/>
+  <testcase name="Invalid image format '[java.lang.Object@27b5bf6f]'" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.0"/>
   <testcase name="Invalid image format 'F00'" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.001"/>
-  <testcase name="Invalid image format '#F0'" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.0"/>
-  <testcase name="Invalid image format '#FF0000FF00'" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.001"/>
-  <testcase name="Invalid image format '[HH, FF, 00]'" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.001"/>
-  <testcase name="Invalid image format 'java.lang.Object@185ef73d'" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.0"/>
+  <testcase name="Invalid image format '#F0'" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.001"/>
+  <testcase name="Invalid image format '#FF0000FF00'" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.0"/>
+  <testcase name="Invalid image format '[HH, FF, 00]'" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.0"/>
+  <testcase name="Invalid image format 'java.lang.Object@d2b24c7'" classname="griffon.swing.editors.ImagePropertyEditorSpec" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="griffon.pivot.editors.DimensionsPropertyEditorSpec" tests="31" failures="0" errors="0" timestamp="2014-02-18T21:07:37" hostname="testing-worker-linux-9-1-26937-linux-3-19139712" time="0.07">
+<testsuite name="griffon.pivot.editors.DimensionsPropertyEditorSpec" tests="31" failures="0" errors="0" timestamp="2014-02-22T19:19:37" hostname="testing-worker-linux-6-1-10096-linux-6-19406446" time="0.066">
   <properties/>
-  <testcase name="Dimensions format 'null' should be equal to #Error:dimensions" classname="griffon.pivot.editors.DimensionsPropertyEditorSpec" time="0.022"/>
+  <testcase name="Dimensions format 'null' should be equal to #Error:dimensions" classname="griffon.pivot.editors.DimensionsPropertyEditorSpec" time="0.017"/>
   <testcase name="Dimensions format '' should be equal to #Error:dimensions" classname="griffon.pivot.editors.DimensionsPropertyEditorSpec" time="0.0"/>
   <testcase name="Dimensions format ' ' should be equal to #Error:dimensions" classname="griffon.pivot.editors.DimensionsPropertyEditorSpec" time="0.0"/>
   <testcase name="Dimensions format '[]' should be equal to #Error:dimensions" classname="griffon.pivot.editors.DimensionsPropertyEditorSpec" time="0.001"/>
@@ -25,13 +25,13 @@
   <testcase name="Invalid dimensions format 'garbage'" classname="griffon.pivot.editors.DimensionsPropertyEditorSpec" time="0.001"/>
   <testcase name="Invalid dimensions format '1, 2, 3'" classname="griffon.pivot.editors.DimensionsPropertyEditorSpec" time="0.001"/>
   <testcase name="Invalid dimensions format '[1, 2, 3]'" classname="griffon.pivot.editors.DimensionsPropertyEditorSpec" time="0.0"/>
-  <testcase name="Invalid dimensions format '[java.lang.Object@61aa7aa4]'" classname="griffon.pivot.editors.DimensionsPropertyEditorSpec" time="0.001"/>
-  <testcase name="Invalid dimensions format '[w:java.lang.Object@7f59d713]'" classname="griffon.pivot.editors.DimensionsPropertyEditorSpec" time="0.0"/>
+  <testcase name="Invalid dimensions format '[java.lang.Object@27093e5b]'" classname="griffon.pivot.editors.DimensionsPropertyEditorSpec" time="0.0"/>
+  <testcase name="Invalid dimensions format '[w:java.lang.Object@4fdcdc62]'" classname="griffon.pivot.editors.DimensionsPropertyEditorSpec" time="0.001"/>
   <testcase name="Invalid dimensions format '[width:a]'" classname="griffon.pivot.editors.DimensionsPropertyEditorSpec" time="0.0"/>
   <testcase name="Invalid dimensions format '[w:b]'" classname="griffon.pivot.editors.DimensionsPropertyEditorSpec" time="0.001"/>
-  <testcase name="Invalid dimensions format 'java.lang.Object@633761b6'" classname="griffon.pivot.editors.DimensionsPropertyEditorSpec" time="0.001"/>
-  <testcase name="Formatted dimensions 'null'" classname="griffon.pivot.editors.DimensionsPropertyEditorSpec" time="0.001"/>
-  <testcase name="Formatted dimensions '10, 20'" classname="griffon.pivot.editors.DimensionsPropertyEditorSpec" time="0.0"/>
+  <testcase name="Invalid dimensions format 'java.lang.Object@2d08cee4'" classname="griffon.pivot.editors.DimensionsPropertyEditorSpec" time="0.0"/>
+  <testcase name="Formatted dimensions 'null'" classname="griffon.pivot.editors.DimensionsPropertyEditorSpec" time="0.0"/>
+  <testcase name="Formatted dimensions '10, 20'" classname="griffon.pivot.editors.DimensionsPropertyEditorSpec" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

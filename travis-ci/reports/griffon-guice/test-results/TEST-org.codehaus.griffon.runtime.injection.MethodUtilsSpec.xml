@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.codehaus.griffon.runtime.injection.MethodUtilsSpec" tests="3" failures="0" errors="0" timestamp="2014-02-18T21:04:18" hostname="testing-worker-linux-9-1-26937-linux-3-19139712" time="0.43">
+<testsuite name="org.codehaus.griffon.runtime.injection.MethodUtilsSpec" tests="3" failures="0" errors="0" timestamp="2014-02-22T19:16:47" hostname="testing-worker-linux-6-1-10096-linux-6-19406446" time="0.063">
   <properties/>
-  <testcase name="Invoke @PostConstruct annotated method on valid instance" classname="org.codehaus.griffon.runtime.injection.MethodUtilsSpec" time="0.385"/>
-  <testcase name="Invoke @PreDestroy annotated method on valid instance" classname="org.codehaus.griffon.runtime.injection.MethodUtilsSpec" time="0.003"/>
-  <testcase name="Invoke @PostConstruct annotated method on invalid instance" classname="org.codehaus.griffon.runtime.injection.MethodUtilsSpec" time="0.039"/>
+  <testcase name="Invoke @PostConstruct annotated method on valid instance" classname="org.codehaus.griffon.runtime.injection.MethodUtilsSpec" time="0.039"/>
+  <testcase name="Invoke @PreDestroy annotated method on valid instance" classname="org.codehaus.griffon.runtime.injection.MethodUtilsSpec" time="0.002"/>
+  <testcase name="Invoke @PostConstruct annotated method on invalid instance" classname="org.codehaus.griffon.runtime.injection.MethodUtilsSpec" time="0.02"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

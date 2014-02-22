@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<BugCollection version="2.0.2" sequence="0" timestamp="1392757413919" analysisTimestamp="1392757414031" release="">
+<BugCollection version="2.0.2" sequence="0" timestamp="1393096557884" analysisTimestamp="1393096557997" release="">
   <Project projectName="">
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/griffon/transform/PropertyListener.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/GriffonASTUtils.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/SourceUnitCollector.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/artifact/ArtifactProviderASTTransformation.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/artifact/ArtifactPersistence.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/editor/PropertyEditorASTTransformation.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/editor/PropertyEditorPersistence.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/GriffonASTUtils.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/ThreadingAwareASTTransformation.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/EventPublisherASTTransformation.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/ThreadingASTTransformation$1.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/ObservableASTTransformation.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/GriffonModelASTTransformation.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/ASTInjector.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/GriffonArtifactASTTransformation.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/ThreadingASTTransformation.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/GriffonViewASTTransformation.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/VetoableASTTransformation.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/AbstractASTTransformation.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/GriffonMvcArtifactASTInjector.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/AbstractASTInjector.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/ResourcesAwareASTTransformation.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/AnnotationHandlerASTTransformation.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/PropertyListenerASTTransformation.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/GriffonArtifactASTInjector.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/MVCAwareASTTransformation.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/GriffonControllerASTTransformation.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/ResourceResolverAwareASTTransformation.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/ObservableASTTransformation.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/AnnotationHandlerASTTransformation.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/GriffonArtifactASTInjector.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/GriffonModelASTTransformation$1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/GriffonViewASTTransformation.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/AbstractASTTransformation.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/GriffonServiceASTTransformation.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/GriffonArtifactASTTransformation.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/GriffonMvcArtifactASTInjector.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/ASTInjector.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/AnnotationHandlerASTTransformation$1.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/GriffonControllerASTInjector.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/MessageSourceAwareASTTransformation.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/VetoableASTTransformation.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/EventPublisherASTTransformation.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/GriffonModelASTTransformation.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/ThreadingASTTransformation$1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/PropertyListenerASTTransformation.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/ResourcesAwareASTTransformation.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/ThreadingAwareASTTransformation.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/AnnotationHandlerASTTransformation$1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/AbstractASTInjector.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/ThreadingASTTransformation.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/META-INF/services/org.codehaus.groovy.transform.ASTTransformation</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/ResourceResolverAwareASTTransformation.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/transform/GriffonModelASTTransformation$1.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/editor/PropertyEditorPersistence.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/editor/PropertyEditorASTTransformation.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/artifact/ArtifactPersistence.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/org/codehaus/griffon/compile/core/ast/artifact/ArtifactProviderASTTransformation.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/griffon/transform/PropertyListener.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/META-INF/annotations/org.codehaus.griffon.compile.core.AnnotationHandler</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/META-INF/services/org.codehaus.groovy.transform.ASTTransformation</Jar>
     <AuxClasspathEntry>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/libs/griffon-core-compile-2.0.0-SNAPSHOT.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/build/libs/griffon-groovy-2.0.0-SNAPSHOT.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/org.kordamp.gipsy/gipsy/0.3.0/9331881e7174096b274c48feb0f8633f0469559a/gipsy-0.3.0.jar</AuxClasspathEntry>
@@ -46,40 +46,40 @@
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/javax.annotation/jsr250-api/1.0/5025422767732a1ab45d93abfea846513d742dcf/jsr250-api-1.0.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.2/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.2.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.5/6b262da268f8ad9eff941b25503a9198f0a0ac93/slf4j-api-1.7.5.jar</AuxClasspathEntry>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/griffon/transform/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/griffon/transform/PropertyListener.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/package-info.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/SourceUnitCollector.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/GriffonASTUtils.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/artifact/ArtifactPersistence.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/artifact/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/artifact/ArtifactProviderASTTransformation.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/editor/PropertyEditorPersistence.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/editor/PropertyEditorASTTransformation.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/editor/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/VetoableASTTransformation.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/AbstractASTTransformation.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/ThreadingASTTransformation.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/ASTInjector.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/ThreadingAwareASTTransformation.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/PropertyListenerASTTransformation.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/MVCAwareASTTransformation.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/AbstractASTInjector.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/GriffonArtifactASTTransformation.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/GriffonModelASTTransformation.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/AbstractASTTransformation.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/GriffonArtifactASTInjector.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/ResourcesAwareASTTransformation.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/EventPublisherASTTransformation.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/AnnotationHandlerASTTransformation.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/ResourceResolverAwareASTTransformation.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/MessageSourceAwareASTTransformation.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/GriffonServiceASTTransformation.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/GriffonArtifactASTTransformation.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/ObservableASTTransformation.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/GriffonViewASTTransformation.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/GriffonMvcArtifactASTInjector.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/AbstractASTInjector.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/GriffonControllerASTInjector.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/GriffonControllerASTTransformation.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/GriffonControllerASTInjector.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/ThreadingAwareASTTransformation.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/ThreadingASTTransformation.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/AnnotationHandlerASTTransformation.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/GriffonMvcArtifactASTInjector.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/ResourceResolverAwareASTTransformation.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/PropertyListenerASTTransformation.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/ObservableASTTransformation.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/VetoableASTTransformation.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/ASTInjector.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/MessageSourceAwareASTTransformation.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/GriffonViewASTTransformation.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/EventPublisherASTTransformation.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/MVCAwareASTTransformation.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/transform/GriffonServiceASTTransformation.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/editor/PropertyEditorASTTransformation.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/editor/PropertyEditorPersistence.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/editor/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/artifact/ArtifactProviderASTTransformation.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/artifact/ArtifactPersistence.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/org/codehaus/griffon/compile/core/ast/artifact/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/griffon/transform/PropertyListener.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/src/main/java/griffon/transform/package-info.java</SrcDir>
   </Project>
   <BugInstance type="MS_MUTABLE_ARRAY" priority="1" abbrev="MS" category="MALICIOUS_CODE">
     <Class classname="org.codehaus.griffon.compile.core.ast.GriffonASTUtils">
@@ -91,31 +91,6 @@
     <SourceLine classname="org.codehaus.griffon.compile.core.ast.GriffonASTUtils" start="336" end="336" startBytecode="12" endBytecode="12" sourcefile="GriffonASTUtils.java" sourcepath="org/codehaus/griffon/compile/core/ast/GriffonASTUtils.java"/>
   </BugInstance>
   <Errors errors="2" missingClasses="0">
-    <Error>
-      <ErrorMessage>Cannot open codebase filesystem:/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/META-INF/services/org.codehaus.groovy.transform.ASTTransformation</ErrorMessage>
-      <Exception>java.util.zip.ZipException: Wrong magic bytes of 23204765 for zip file /home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/META-INF/services/org.codehaus.groovy.transform.ASTTransformation of 677 bytes</Exception>
-      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ZipFileCodeBase.&lt;init&gt;(ZipFileCodeBase.java:80)</StackTrace>
-      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory.countUsingZipFile(ZipCodeBaseFactory.java:90)</StackTrace>
-      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory.makeZipCodeBase(ZipCodeBaseFactory.java:46)</StackTrace>
-      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ClassFactory.createFilesystemCodeBase(ClassFactory.java:117)</StackTrace>
-      <StackTrace>edu.umd.cs.findbugs.classfile.impl.FilesystemCodeBaseLocator.openCodeBase(FilesystemCodeBaseLocator.java:75)</StackTrace>
-      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ClassPathBuilder.processWorkList(ClassPathBuilder.java:596)</StackTrace>
-      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ClassPathBuilder.build(ClassPathBuilder.java:220)</StackTrace>
-      <StackTrace>edu.umd.cs.findbugs.FindBugs2.buildClassPath(FindBugs2.java:779)</StackTrace>
-      <StackTrace>edu.umd.cs.findbugs.FindBugs2.execute(FindBugs2.java:217)</StackTrace>
-      <StackTrace>org.gradle.api.plugins.quality.internal.findbugs.FindBugsExecuter.runFindbugs(FindBugsExecuter.java:44)</StackTrace>
-      <StackTrace>org.gradle.api.plugins.quality.internal.findbugs.FindBugsWorkerServer.execute(FindBugsWorkerServer.java:45)</StackTrace>
-      <StackTrace>org.gradle.api.plugins.quality.internal.findbugs.FindBugsWorkerServer.execute(FindBugsWorkerServer.java:35)</StackTrace>
-      <StackTrace>org.gradle.api.plugins.quality.internal.findbugs.FindBugsWorkerServer.execute(FindBugsWorkerServer.java:26)</StackTrace>
-      <StackTrace>org.gradle.process.internal.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:78)</StackTrace>
-      <StackTrace>org.gradle.process.internal.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:35)</StackTrace>
-      <StackTrace>org.gradle.process.internal.child.ImplementationClassLoaderWorker.execute(ImplementationClassLoaderWorker.java:85)</StackTrace>
-      <StackTrace>org.gradle.process.internal.child.ImplementationClassLoaderWorker.execute(ImplementationClassLoaderWorker.java:41)</StackTrace>
-      <StackTrace>org.gradle.process.internal.child.IsolatedApplicationClassLoaderWorker.call(IsolatedApplicationClassLoaderWorker.java:48)</StackTrace>
-      <StackTrace>org.gradle.process.internal.child.IsolatedApplicationClassLoaderWorker.call(IsolatedApplicationClassLoaderWorker.java:30)</StackTrace>
-      <StackTrace>org.gradle.process.internal.launcher.GradleWorkerMain.run(GradleWorkerMain.java:32)</StackTrace>
-      <StackTrace>org.gradle.process.internal.launcher.GradleWorkerMain.main(GradleWorkerMain.java:37)</StackTrace>
-    </Error>
     <Error>
       <ErrorMessage>Cannot open codebase filesystem:/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/META-INF/annotations/org.codehaus.griffon.compile.core.AnnotationHandler</ErrorMessage>
       <Exception>java.util.zip.ZipException: Wrong magic bytes of 23204765 for zip file /home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/META-INF/annotations/org.codehaus.griffon.compile.core.AnnotationHandler of 1145 bytes</Exception>
@@ -141,8 +116,33 @@
       <StackTrace>org.gradle.process.internal.launcher.GradleWorkerMain.run(GradleWorkerMain.java:32)</StackTrace>
       <StackTrace>org.gradle.process.internal.launcher.GradleWorkerMain.main(GradleWorkerMain.java:37)</StackTrace>
     </Error>
+    <Error>
+      <ErrorMessage>Cannot open codebase filesystem:/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/META-INF/services/org.codehaus.groovy.transform.ASTTransformation</ErrorMessage>
+      <Exception>java.util.zip.ZipException: Wrong magic bytes of 23204765 for zip file /home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy-compile/build/classes/main/META-INF/services/org.codehaus.groovy.transform.ASTTransformation of 677 bytes</Exception>
+      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ZipFileCodeBase.&lt;init&gt;(ZipFileCodeBase.java:80)</StackTrace>
+      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory.countUsingZipFile(ZipCodeBaseFactory.java:90)</StackTrace>
+      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory.makeZipCodeBase(ZipCodeBaseFactory.java:46)</StackTrace>
+      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ClassFactory.createFilesystemCodeBase(ClassFactory.java:117)</StackTrace>
+      <StackTrace>edu.umd.cs.findbugs.classfile.impl.FilesystemCodeBaseLocator.openCodeBase(FilesystemCodeBaseLocator.java:75)</StackTrace>
+      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ClassPathBuilder.processWorkList(ClassPathBuilder.java:596)</StackTrace>
+      <StackTrace>edu.umd.cs.findbugs.classfile.impl.ClassPathBuilder.build(ClassPathBuilder.java:220)</StackTrace>
+      <StackTrace>edu.umd.cs.findbugs.FindBugs2.buildClassPath(FindBugs2.java:779)</StackTrace>
+      <StackTrace>edu.umd.cs.findbugs.FindBugs2.execute(FindBugs2.java:217)</StackTrace>
+      <StackTrace>org.gradle.api.plugins.quality.internal.findbugs.FindBugsExecuter.runFindbugs(FindBugsExecuter.java:44)</StackTrace>
+      <StackTrace>org.gradle.api.plugins.quality.internal.findbugs.FindBugsWorkerServer.execute(FindBugsWorkerServer.java:45)</StackTrace>
+      <StackTrace>org.gradle.api.plugins.quality.internal.findbugs.FindBugsWorkerServer.execute(FindBugsWorkerServer.java:35)</StackTrace>
+      <StackTrace>org.gradle.api.plugins.quality.internal.findbugs.FindBugsWorkerServer.execute(FindBugsWorkerServer.java:26)</StackTrace>
+      <StackTrace>org.gradle.process.internal.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:78)</StackTrace>
+      <StackTrace>org.gradle.process.internal.child.ActionExecutionWorker.execute(ActionExecutionWorker.java:35)</StackTrace>
+      <StackTrace>org.gradle.process.internal.child.ImplementationClassLoaderWorker.execute(ImplementationClassLoaderWorker.java:85)</StackTrace>
+      <StackTrace>org.gradle.process.internal.child.ImplementationClassLoaderWorker.execute(ImplementationClassLoaderWorker.java:41)</StackTrace>
+      <StackTrace>org.gradle.process.internal.child.IsolatedApplicationClassLoaderWorker.call(IsolatedApplicationClassLoaderWorker.java:48)</StackTrace>
+      <StackTrace>org.gradle.process.internal.child.IsolatedApplicationClassLoaderWorker.call(IsolatedApplicationClassLoaderWorker.java:30)</StackTrace>
+      <StackTrace>org.gradle.process.internal.launcher.GradleWorkerMain.run(GradleWorkerMain.java:32)</StackTrace>
+      <StackTrace>org.gradle.process.internal.launcher.GradleWorkerMain.main(GradleWorkerMain.java:37)</StackTrace>
+    </Error>
   </Errors>
-  <FindBugsSummary timestamp="Tue, 18 Feb 2014 21:03:33 +0000" total_classes="32" referenced_classes="265" total_bugs="1" total_size="1524" num_packages="5" vm_version="24.51-b03" cpu_seconds="40.76" clock_seconds="17.02" peak_mbytes="257.44" alloc_mbytes="683.00" gc_seconds="0.50" priority_1="1">
+  <FindBugsSummary timestamp="Sat, 22 Feb 2014 19:15:57 +0000" total_classes="32" referenced_classes="265" total_bugs="1" total_size="1525" num_packages="5" vm_version="24.51-b03" cpu_seconds="45.16" clock_seconds="17.94" peak_mbytes="257.87" alloc_mbytes="683.00" gc_seconds="0.39" priority_1="1">
     <PackageStats package="griffon.transform" total_bugs="0" total_types="1" total_size="2">
       <ClassStats class="griffon.transform.PropertyListener" sourceFile="PropertyListener.java" interface="true" size="2" bugs="0"/>
     </PackageStats>
@@ -158,7 +158,7 @@
       <ClassStats class="org.codehaus.griffon.compile.core.ast.editor.PropertyEditorASTTransformation" sourceFile="PropertyEditorASTTransformation.java" interface="false" size="72" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.compile.core.ast.editor.PropertyEditorPersistence" sourceFile="PropertyEditorPersistence.java" interface="false" size="6" bugs="0"/>
     </PackageStats>
-    <PackageStats package="org.codehaus.griffon.compile.core.ast.transform" total_bugs="0" total_types="25" total_size="1033">
+    <PackageStats package="org.codehaus.griffon.compile.core.ast.transform" total_bugs="0" total_types="25" total_size="1034">
       <ClassStats class="org.codehaus.griffon.compile.core.ast.transform.ASTInjector" sourceFile="ASTInjector.java" interface="true" size="2" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.compile.core.ast.transform.AbstractASTInjector" sourceFile="AbstractASTInjector.java" interface="false" size="40" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.compile.core.ast.transform.AbstractASTTransformation" sourceFile="AbstractASTTransformation.java" interface="false" size="153" bugs="0"/>
@@ -167,7 +167,7 @@
       <ClassStats class="org.codehaus.griffon.compile.core.ast.transform.EventPublisherASTTransformation" sourceFile="EventPublisherASTTransformation.java" interface="false" size="45" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.compile.core.ast.transform.GriffonArtifactASTInjector" sourceFile="GriffonArtifactASTInjector.java" interface="false" size="26" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.compile.core.ast.transform.GriffonArtifactASTTransformation" sourceFile="GriffonArtifactASTTransformation.java" interface="false" size="74" bugs="0"/>
-      <ClassStats class="org.codehaus.griffon.compile.core.ast.transform.GriffonControllerASTInjector" sourceFile="GriffonControllerASTInjector.java" interface="false" size="12" bugs="0"/>
+      <ClassStats class="org.codehaus.griffon.compile.core.ast.transform.GriffonControllerASTInjector" sourceFile="GriffonControllerASTInjector.java" interface="false" size="13" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.compile.core.ast.transform.GriffonControllerASTTransformation" sourceFile="GriffonControllerASTTransformation.java" interface="false" size="20" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.compile.core.ast.transform.GriffonModelASTTransformation" sourceFile="GriffonModelASTTransformation.java" interface="false" size="20" bugs="0"/>
       <ClassStats class="org.codehaus.griffon.compile.core.ast.transform.GriffonModelASTTransformation$1" sourceFile="GriffonModelASTTransformation.java" interface="false" size="7" bugs="0"/>
@@ -186,25 +186,26 @@
       <ClassStats class="org.codehaus.griffon.compile.core.ast.transform.VetoableASTTransformation" sourceFile="VetoableASTTransformation.java" interface="false" size="104" bugs="0"/>
     </PackageStats>
     <FindBugsProfile>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="1906" invocations="1071" avgMicrosecondsPerInvocation="1780" maxMicrosecondsPerInvocation="49300" standardDeviationMircosecondsPerInvocation="3686"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="1403" invocations="265" avgMicrosecondsPerInvocation="5294" maxMicrosecondsPerInvocation="160138" standardDeviationMircosecondsPerInvocation="14395"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="769" invocations="265" avgMicrosecondsPerInvocation="2905" maxMicrosecondsPerInvocation="78997" standardDeviationMircosecondsPerInvocation="7896"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="651" invocations="286" avgMicrosecondsPerInvocation="2279" maxMicrosecondsPerInvocation="43180" standardDeviationMircosecondsPerInvocation="4345"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="647" invocations="286" avgMicrosecondsPerInvocation="2263" maxMicrosecondsPerInvocation="62067" standardDeviationMircosecondsPerInvocation="5672"/>
-      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="634" invocations="1023" avgMicrosecondsPerInvocation="620" maxMicrosecondsPerInvocation="66865" standardDeviationMircosecondsPerInvocation="2426"/>
-      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="600" invocations="286" avgMicrosecondsPerInvocation="2097" maxMicrosecondsPerInvocation="23535" standardDeviationMircosecondsPerInvocation="3145"/>
-      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="578" invocations="738" avgMicrosecondsPerInvocation="783" maxMicrosecondsPerInvocation="53781" standardDeviationMircosecondsPerInvocation="2638"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="537" invocations="288" avgMicrosecondsPerInvocation="1864" maxMicrosecondsPerInvocation="51991" standardDeviationMircosecondsPerInvocation="4391"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="480" invocations="288" avgMicrosecondsPerInvocation="1668" maxMicrosecondsPerInvocation="48590" standardDeviationMircosecondsPerInvocation="4049"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="479" invocations="286" avgMicrosecondsPerInvocation="1678" maxMicrosecondsPerInvocation="26565" standardDeviationMircosecondsPerInvocation="2448"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="436" invocations="319" avgMicrosecondsPerInvocation="1367" maxMicrosecondsPerInvocation="88896" standardDeviationMircosecondsPerInvocation="5592"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.URLProblems" totalMilliseconds="429" invocations="32" avgMicrosecondsPerInvocation="13426" maxMicrosecondsPerInvocation="322672" standardDeviationMircosecondsPerInvocation="55731"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="391" invocations="265" avgMicrosecondsPerInvocation="1476" maxMicrosecondsPerInvocation="48737" standardDeviationMircosecondsPerInvocation="4006"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="321" invocations="260" avgMicrosecondsPerInvocation="1237" maxMicrosecondsPerInvocation="17313" standardDeviationMircosecondsPerInvocation="2289"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="262" invocations="265" avgMicrosecondsPerInvocation="989" maxMicrosecondsPerInvocation="31581" standardDeviationMircosecondsPerInvocation="2643"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="254" invocations="265" avgMicrosecondsPerInvocation="960" maxMicrosecondsPerInvocation="23916" standardDeviationMircosecondsPerInvocation="2501"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="233" invocations="265" avgMicrosecondsPerInvocation="882" maxMicrosecondsPerInvocation="19687" standardDeviationMircosecondsPerInvocation="2123"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="217" invocations="1083" avgMicrosecondsPerInvocation="201" maxMicrosecondsPerInvocation="40761" standardDeviationMircosecondsPerInvocation="1293"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="2141" invocations="1070" avgMicrosecondsPerInvocation="2001" maxMicrosecondsPerInvocation="57618" standardDeviationMircosecondsPerInvocation="4195"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="1652" invocations="265" avgMicrosecondsPerInvocation="6235" maxMicrosecondsPerInvocation="94788" standardDeviationMircosecondsPerInvocation="14691"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="931" invocations="265" avgMicrosecondsPerInvocation="3513" maxMicrosecondsPerInvocation="68579" standardDeviationMircosecondsPerInvocation="8735"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="660" invocations="286" avgMicrosecondsPerInvocation="2308" maxMicrosecondsPerInvocation="31221" standardDeviationMircosecondsPerInvocation="3929"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="647" invocations="286" avgMicrosecondsPerInvocation="2262" maxMicrosecondsPerInvocation="26389" standardDeviationMircosecondsPerInvocation="3302"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="643" invocations="739" avgMicrosecondsPerInvocation="871" maxMicrosecondsPerInvocation="40094" standardDeviationMircosecondsPerInvocation="2051"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="636" invocations="286" avgMicrosecondsPerInvocation="2224" maxMicrosecondsPerInvocation="44170" standardDeviationMircosecondsPerInvocation="4894"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="554" invocations="288" avgMicrosecondsPerInvocation="1924" maxMicrosecondsPerInvocation="33417" standardDeviationMircosecondsPerInvocation="4006"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="551" invocations="1022" avgMicrosecondsPerInvocation="539" maxMicrosecondsPerInvocation="15365" standardDeviationMircosecondsPerInvocation="1185"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="498" invocations="286" avgMicrosecondsPerInvocation="1743" maxMicrosecondsPerInvocation="26115" standardDeviationMircosecondsPerInvocation="2396"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="480" invocations="288" avgMicrosecondsPerInvocation="1667" maxMicrosecondsPerInvocation="27244" standardDeviationMircosecondsPerInvocation="3252"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="459" invocations="265" avgMicrosecondsPerInvocation="1732" maxMicrosecondsPerInvocation="38143" standardDeviationMircosecondsPerInvocation="4025"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="383" invocations="260" avgMicrosecondsPerInvocation="1474" maxMicrosecondsPerInvocation="54685" standardDeviationMircosecondsPerInvocation="3940"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="380" invocations="319" avgMicrosecondsPerInvocation="1193" maxMicrosecondsPerInvocation="30694" standardDeviationMircosecondsPerInvocation="2902"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="311" invocations="265" avgMicrosecondsPerInvocation="1176" maxMicrosecondsPerInvocation="24829" standardDeviationMircosecondsPerInvocation="2871"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="310" invocations="265" avgMicrosecondsPerInvocation="1172" maxMicrosecondsPerInvocation="38391" standardDeviationMircosecondsPerInvocation="3402"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNullDerefsInvolvingNonShortCircuitEvaluation" totalMilliseconds="305" invocations="32" avgMicrosecondsPerInvocation="9531" maxMicrosecondsPerInvocation="288819" standardDeviationMircosecondsPerInvocation="50165"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="303" invocations="265" avgMicrosecondsPerInvocation="1146" maxMicrosecondsPerInvocation="33955" standardDeviationMircosecondsPerInvocation="2876"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.EqualsOperandShouldHaveClassCompatibleWithThis" totalMilliseconds="217" invocations="265" avgMicrosecondsPerInvocation="820" maxMicrosecondsPerInvocation="15560" standardDeviationMircosecondsPerInvocation="1924"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="215" invocations="286" avgMicrosecondsPerInvocation="754" maxMicrosecondsPerInvocation="9780" standardDeviationMircosecondsPerInvocation="1247"/>
     </FindBugsProfile>
   </FindBugsSummary>
   <ClassFeatures></ClassFeatures>

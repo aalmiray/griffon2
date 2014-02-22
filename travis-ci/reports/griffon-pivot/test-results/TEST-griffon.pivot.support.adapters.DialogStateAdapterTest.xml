@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="griffon.pivot.support.adapters.DialogStateAdapterTest" tests="3" failures="0" errors="0" timestamp="2014-02-18T21:07:40" hostname="testing-worker-linux-9-1-26937-linux-3-19139712" time="0.004">
+<testsuite name="griffon.pivot.support.adapters.DialogStateAdapterTest" tests="3" failures="0" errors="0" timestamp="2014-02-22T19:19:38" hostname="testing-worker-linux-6-1-10096-linux-6-19406446" time="0.004">
   <properties/>
   <testcase name="testPreviewDialogClose" classname="griffon.pivot.support.adapters.DialogStateAdapterTest" time="0.001"/>
-  <testcase name="testDialogCloseVetoed" classname="griffon.pivot.support.adapters.DialogStateAdapterTest" time="0.0"/>
+  <testcase name="testDialogCloseVetoed" classname="griffon.pivot.support.adapters.DialogStateAdapterTest" time="0.001"/>
   <testcase name="testDialogClosed" classname="griffon.pivot.support.adapters.DialogStateAdapterTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

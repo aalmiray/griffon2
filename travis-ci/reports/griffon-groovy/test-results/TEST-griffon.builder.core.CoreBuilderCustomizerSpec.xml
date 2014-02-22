@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="griffon.builder.core.CoreBuilderCustomizerSpec" tests="4" failures="0" errors="0" timestamp="2014-02-18T21:03:16" hostname="testing-worker-linux-9-1-26937-linux-3-19139712" time="0.155">
+<testsuite name="griffon.builder.core.CoreBuilderCustomizerSpec" tests="4" failures="0" errors="0" timestamp="2014-02-22T19:15:43" hostname="testing-worker-linux-6-1-10096-linux-6-19406446" time="0.451">
   <properties/>
-  <testcase name="Root node is properly configured[0]" classname="griffon.builder.core.CoreBuilderCustomizerSpec" time="0.1"/>
-  <testcase name="Root node is properly configured[1]" classname="griffon.builder.core.CoreBuilderCustomizerSpec" time="0.022"/>
-  <testcase name="Root node is properly configured[2]" classname="griffon.builder.core.CoreBuilderCustomizerSpec" time="0.014"/>
-  <testcase name="Root node is properly configured[3]" classname="griffon.builder.core.CoreBuilderCustomizerSpec" time="0.016"/>
+  <testcase name="Root node is properly configured[0]" classname="griffon.builder.core.CoreBuilderCustomizerSpec" time="0.384"/>
+  <testcase name="Root node is properly configured[1]" classname="griffon.builder.core.CoreBuilderCustomizerSpec" time="0.025"/>
+  <testcase name="Root node is properly configured[2]" classname="griffon.builder.core.CoreBuilderCustomizerSpec" time="0.019"/>
+  <testcase name="Root node is properly configured[3]" classname="griffon.builder.core.CoreBuilderCustomizerSpec" time="0.018"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Feb 18, 2014 9:03:16 PM groovy.util.FactoryBuilderSupport createNode
+  <system-err><![CDATA[Feb 22, 2014 7:15:43 PM groovy.util.FactoryBuilderSupport createNode
 WARNING: Factory for name 'root' returned null
-Feb 18, 2014 9:03:16 PM groovy.util.FactoryBuilderSupport createNode
+Feb 22, 2014 7:15:43 PM groovy.util.FactoryBuilderSupport createNode
 WARNING: Factory for name 'root' returned null
 ]]></system-err>
 </testsuite>

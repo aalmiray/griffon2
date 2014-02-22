@@ -1,179 +1,179 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<BugCollection version="2.0.2" sequence="0" timestamp="1392757622668" analysisTimestamp="1392757623351" release="">
+<BugCollection version="2.0.2" sequence="0" timestamp="1393096748598" analysisTimestamp="1393096749157" release="">
   <Project projectName="">
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/AbstractPivotGriffonApplication.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/DesktopPivotGriffonApplication.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/PivotWindowManager.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/PivotWindowDisplayHandler.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/editors/DimensionsPropertyEditor.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/editors/ColorPropertyEditor.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/editors/PointPropertyEditor.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/editors/BoundsPropertyEditor.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/editors/InsetsPropertyEditor.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/formatters/ColorFormatter$ColorFormatterDelegate.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/formatters/ColorFormatter$LongColorFormatterDelegate.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/formatters/ColorFormatter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/formatters/ColorFormatter$LongWithAlphaColorFormatterDelegate.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/formatters/ColorFormatter$1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/formatters/ColorFormatter$ShortWithAlphaColorFormatterDelegate.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/formatters/ColorFormatter$ShortColorFormatterDelegate.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/formatters/ColorFormatter$AbstractColorFormatterDelegate.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/Colors.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/PivotUtils.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/PivotAction.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ListButtonItemAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ActivityIndicatorAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ColorChooserSelectionAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/BoxPaneAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SeparatorAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/GriffonPivotAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/RollupStateAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ActionClassAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ImageViewAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ViewportAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/AccordionAttributeAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ColorChooserButtonBindingAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ScrollBarAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TableViewSortAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentMouseButtonAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/LabelAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextAreaAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ButtonPressAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TransitionAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TableViewHeaderAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentNodeAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SplitPaneAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ElementAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ListButtonSelectionAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SuggestionPopupSelectionAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SliderAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ExpanderAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/DialogCloseAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/WindowStateAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentDecoratorAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ListViewSelectionAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SuggestionPopupAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/WindowClassAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/NodeAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ImageViewBindingAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextAreaBindingAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/AccordionSelectionAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentMouseAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/MenuPopupAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/BorderAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextInputContentAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/MenuAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/MenuItemSelectionAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ListViewAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/MenuBarAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentClassAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ListViewBindingAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextAreaSelectionAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/WindowActionMappingAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ListButtonBindingAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/MovieAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ClipboardContentAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ListViewItemAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/CalendarButtonSelectionAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentKeyAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ImageAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/MenuButtonAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/CalendarSelectionAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextAreaContentAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TableViewBindingAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ButtonAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/BulletedListAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ButtonBindingAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TableViewColumnAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TabPaneAttributeAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TableViewAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ButtonGroupAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TreeViewSelectionAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SpinnerItemAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ContainerAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/CardPaneAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/CalendarButtonBindingAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentStateAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TreeViewNodeAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/FileBrowserSheetAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/BlockAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/CalendarBindingAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SpinnerSelectionAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/DialogStateAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextInputSelectionAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextInputAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SpinnerAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextInputBindingAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TableViewRowAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentStyleAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentDataAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ButtonStateAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TreeViewAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextNodeAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/WindowAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/MenuPopupStateAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextPaneAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentTooltipAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/FillPaneAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/FormAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ContainerMouseAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SheetCloseAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/GridPaneAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SuggestionPopupItemAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ColorChooserButtonSelectionAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/DialogAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SpinnerBindingAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TablePaneAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/NumberedListAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/RollupAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/CalendarButtonAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ScrollPaneAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/MovieViewAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ListViewItemStateAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ScrollBarValueAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/FrameAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentMouseWheelAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ImageNodeAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TabPaneSelectionAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SuggestionPopupCloseAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SuggestionPopupStateAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ListButtonAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ActionAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TableViewSelectionAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/AccordionAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/PromptAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/LabelBindingAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/CalendarAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/AlertAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TreeViewNodeStateAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TableViewHeaderPressAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TabPaneAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ColorChooserBindingAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/MeterAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextPaneSelectionAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextPaneCharacterAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TreeViewBranchAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/FormAttributeAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SliderValueAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TablePaneAttributeAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/FileBrowserAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SheetStateAdapter.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/PivotApplicationBootstrapper.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/DefaultPivotWindowDisplayHandler.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/PivotApplicationBootstrapper$1.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/DefaultPivotWindowManager.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/DefaultPivotWindowManager$1.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/DefaultPivotWindowManager$WindowStateHelper.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/PivotModule.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/ConfigurablePivotWindowDisplayHandler.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/PivotApplicationBootstrapper.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/DefaultPivotWindowDisplayHandler.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/PivotUIThreadManager.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/DefaultPivotWindowManager$1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/PivotApplicationBootstrapper$1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/DefaultPivotWindowManager.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/controller/PivotGriffonControllerAction.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/controller/PivotGriffonControllerAction$1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/controller/PivotGriffonControllerAction$2.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/controller/PivotGriffonControllerAction$2$1.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/controller/PivotActionManager.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/controller/PivotGriffonControllerAction$2$1.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/controller/PivotGriffonControllerAction.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/controller/PivotGriffonControllerAction$2.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/org/codehaus/griffon/runtime/pivot/controller/PivotGriffonControllerAction$1.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/PivotWindowDisplayHandler.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/AbstractPivotGriffonApplication.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/PivotWindowManager.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/DesktopPivotGriffonApplication.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/editors/InsetsPropertyEditor.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/editors/PointPropertyEditor.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/editors/DimensionsPropertyEditor.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/editors/ColorPropertyEditor.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/editors/BoundsPropertyEditor.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/formatters/ColorFormatter$ColorFormatterDelegate.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/formatters/ColorFormatter$LongWithAlphaColorFormatterDelegate.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/formatters/ColorFormatter$LongColorFormatterDelegate.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/formatters/ColorFormatter$AbstractColorFormatterDelegate.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/formatters/ColorFormatter$ShortWithAlphaColorFormatterDelegate.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/formatters/ColorFormatter$1.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/formatters/ColorFormatter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/formatters/ColorFormatter$ShortColorFormatterDelegate.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/PivotUtils.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/Colors.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/PivotAction.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/DialogCloseAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/BulletedListAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/CardPaneAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ListButtonAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/WindowStateAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TreeViewBranchAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SliderValueAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ElementAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentMouseButtonAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/NodeAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextPaneAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentMouseWheelAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/MenuAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TreeViewNodeStateAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextPaneSelectionAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/MenuPopupStateAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TableViewBindingAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextPaneCharacterAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextInputAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/GriffonPivotAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TableViewSortAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/RollupAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ColorChooserButtonBindingAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/FillPaneAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextInputSelectionAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/AccordionSelectionAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentClassAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/PromptAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ListViewBindingAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ImageAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SpinnerAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentKeyAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SeparatorAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ImageNodeAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/MovieViewAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ListViewAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TableViewColumnAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SpinnerBindingAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ListButtonSelectionAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/MovieAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextAreaAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SheetCloseAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/FormAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/RollupStateAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SplitPaneAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/WindowClassAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TableViewAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TableViewRowAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SheetStateAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TabPaneAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/CalendarButtonSelectionAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentTooltipAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/FileBrowserSheetAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/AlertAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentMouseAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ButtonBindingAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/MenuPopupAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentNodeAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextInputContentAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/DialogAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ListButtonItemAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextNodeAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SuggestionPopupAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/CalendarSelectionAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ExpanderAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentStateAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentDecoratorAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ContainerAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SpinnerItemAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/WindowActionMappingAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/FrameAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/CalendarButtonBindingAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/LabelAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TreeViewSelectionAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/MenuItemSelectionAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/BlockAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ScrollBarValueAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SliderAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentDataAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ActionClassAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TablePaneAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SuggestionPopupStateAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TreeViewNodeAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ScrollPaneAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/MenuBarAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ListViewItemAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ActivityIndicatorAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/WindowAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TabPaneAttributeAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/MeterAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/BorderAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TransitionAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TabPaneSelectionAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ScrollBarAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/AccordionAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/FormAttributeAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TablePaneAttributeAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextAreaBindingAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ColorChooserSelectionAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ActionAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SuggestionPopupCloseAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ListViewItemStateAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ImageViewBindingAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ComponentStyleAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/MenuButtonAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextAreaSelectionAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/GridPaneAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ListViewSelectionAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ButtonStateAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/LabelBindingAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TableViewHeaderPressAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/CalendarBindingAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/DialogStateAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TableViewSelectionAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SuggestionPopupItemAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TreeViewAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ButtonPressAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ButtonGroupAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ViewportAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ClipboardContentAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/CalendarAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ListButtonBindingAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ContainerMouseAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ButtonAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextInputBindingAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ColorChooserBindingAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SuggestionPopupSelectionAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ColorChooserButtonSelectionAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/NumberedListAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/ImageViewAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/BoxPaneAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/FileBrowserAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/CalendarButtonAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/AccordionAttributeAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/SpinnerSelectionAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TextAreaContentAdapter.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/griffon/pivot/support/adapters/TableViewHeaderAdapter.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/META-INF/editors/java.beans.PropertyEditor</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/build/classes/main/META-INF/services/griffon.core.injection.Module</Jar>
     <AuxClasspathEntry>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core/build/libs/griffon-core-2.0.0-SNAPSHOT.jar</AuxClasspathEntry>
@@ -187,172 +187,172 @@
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.5/6b262da268f8ad9eff941b25503a9198f0a0ac93/slf4j-api-1.7.5.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-compile/build/libs/griffon-core-compile-2.0.0-SNAPSHOT.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/org.kordamp.jipsy/jipsy/0.3.0/84c5383dce1639f27671a287f88b45d03f1d42ac/jipsy-0.3.0.jar</AuxClasspathEntry>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/PivotWindowDisplayHandler.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/AbstractPivotGriffonApplication.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/PivotWindowManager.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/DesktopPivotGriffonApplication.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/editors/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/editors/InsetsPropertyEditor.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/editors/DimensionsPropertyEditor.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/editors/ColorPropertyEditor.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/editors/PointPropertyEditor.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/editors/BoundsPropertyEditor.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/formatters/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/formatters/ColorFormatter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/PivotAction.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/Colors.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/PivotUtils.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/LabelAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/BulletedListAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/WindowClassAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/CalendarButtonSelectionAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentMouseWheelAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/CalendarSelectionAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ListButtonBindingAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ImageViewBindingAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ActivityIndicatorAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ColorChooserButtonBindingAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TabPaneAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TableViewColumnAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/WindowAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextAreaAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/MenuPopupAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/BorderAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TabPaneSelectionAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentMouseAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ListViewAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SeparatorAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/FormAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TreeViewNodeStateAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/WindowActionMappingAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ActionAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ListButtonAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/MovieAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/WindowStateAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextAreaSelectionAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ListViewItemStateAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/CalendarBindingAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/FormAttributeAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ListButtonItemAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ButtonAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/NumberedListAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ButtonGroupAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TreeViewBranchAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentDataAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/BoxPaneAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/MovieViewAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/PromptAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextInputBindingAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TableViewAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ViewportAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/RollupStateAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ListViewSelectionAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/AccordionSelectionAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SuggestionPopupStateAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/MenuAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SpinnerBindingAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ButtonBindingAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentClassAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/FillPaneAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TableViewRowAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/FileBrowserSheetAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentKeyAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ImageAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ButtonPressAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SheetStateAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextPaneCharacterAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextNodeAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TabPaneAttributeAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentTooltipAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ListButtonSelectionAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextPaneAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ScrollPaneAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextInputSelectionAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentStateAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentNodeAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SpinnerItemAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TreeViewAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TableViewHeaderAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ListViewItemAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SuggestionPopupItemAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ListViewBindingAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ExpanderAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentStyleAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ImageViewAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ClipboardContentAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/DialogCloseAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/DialogStateAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/CalendarButtonBindingAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/MenuPopupStateAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SliderAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/NodeAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TransitionAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/CalendarButtonAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ImageNodeAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SpinnerAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/LabelBindingAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TreeViewSelectionAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/DialogAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ActionClassAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/RollupAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextInputContentAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentDecoratorAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/CardPaneAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ElementAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ScrollBarAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextAreaBindingAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/MenuButtonAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ContainerAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TableViewBindingAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TableViewSortAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/FileBrowserAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/BlockAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/CalendarAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SuggestionPopupCloseAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ColorChooserButtonSelectionAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextPaneSelectionAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SuggestionPopupAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ColorChooserBindingAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextInputAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SpinnerSelectionAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/AlertAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TableViewHeaderPressAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/FrameAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/GridPaneAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/AccordionAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ButtonStateAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TablePaneAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SliderValueAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TableViewSelectionAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ColorChooserSelectionAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SuggestionPopupSelectionAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ContainerMouseAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/AccordionAttributeAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ScrollBarValueAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextAreaContentAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/MeterAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/MenuBarAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TablePaneAttributeAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SheetCloseAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SplitPaneAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TreeViewNodeAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/MenuItemSelectionAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/GriffonPivotAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentMouseButtonAdapter.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/org/codehaus/griffon/runtime/pivot/PivotUIThreadManager.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/org/codehaus/griffon/runtime/pivot/DefaultPivotWindowManager.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/org/codehaus/griffon/runtime/pivot/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/org/codehaus/griffon/runtime/pivot/PivotModule.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/org/codehaus/griffon/runtime/pivot/DefaultPivotWindowDisplayHandler.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/org/codehaus/griffon/runtime/pivot/PivotApplicationBootstrapper.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/org/codehaus/griffon/runtime/pivot/ConfigurablePivotWindowDisplayHandler.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/org/codehaus/griffon/runtime/pivot/controller/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/org/codehaus/griffon/runtime/pivot/DefaultPivotWindowManager.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/org/codehaus/griffon/runtime/pivot/DefaultPivotWindowDisplayHandler.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/org/codehaus/griffon/runtime/pivot/PivotModule.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/org/codehaus/griffon/runtime/pivot/PivotApplicationBootstrapper.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/org/codehaus/griffon/runtime/pivot/PivotUIThreadManager.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/org/codehaus/griffon/runtime/pivot/package-info.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/org/codehaus/griffon/runtime/pivot/controller/PivotActionManager.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/org/codehaus/griffon/runtime/pivot/controller/PivotGriffonControllerAction.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/org/codehaus/griffon/runtime/pivot/controller/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/DesktopPivotGriffonApplication.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/PivotWindowDisplayHandler.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/AbstractPivotGriffonApplication.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/PivotWindowManager.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/editors/DimensionsPropertyEditor.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/editors/BoundsPropertyEditor.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/editors/ColorPropertyEditor.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/editors/PointPropertyEditor.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/editors/InsetsPropertyEditor.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/editors/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/formatters/ColorFormatter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/formatters/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/PivotUtils.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/Colors.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/PivotAction.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentDataAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TableViewSelectionAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/GriffonPivotAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextInputContentAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ColorChooserSelectionAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TabPaneSelectionAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextAreaContentAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ListViewAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ListViewItemAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/CalendarBindingAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/CalendarAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TransitionAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/CalendarButtonSelectionAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/LabelAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextInputAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextPaneCharacterAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TreeViewBranchAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TableViewHeaderAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TreeViewSelectionAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/WindowStateAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/DialogCloseAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/AlertAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ListButtonAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/FillPaneAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SeparatorAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentStateAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentNodeAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SuggestionPopupSelectionAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/MovieViewAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SplitPaneAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/WindowAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ClipboardContentAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SuggestionPopupAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ListViewSelectionAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SpinnerItemAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/CardPaneAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/BorderAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ListViewBindingAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/BoxPaneAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/MenuItemSelectionAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TabPaneAttributeAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ListViewItemStateAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SuggestionPopupCloseAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/AccordionAttributeAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/MenuPopupAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ActionAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ImageAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TableViewBindingAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/MenuBarAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/RollupAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SuggestionPopupStateAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ButtonStateAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentMouseAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/FormAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ScrollBarValueAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TablePaneAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/WindowActionMappingAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentKeyAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SliderAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/NodeAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/MenuAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/MenuPopupStateAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ColorChooserBindingAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/DialogAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ElementAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentMouseWheelAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/NumberedListAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ScrollPaneAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ListButtonSelectionAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ImageViewAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SpinnerSelectionAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ColorChooserButtonSelectionAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentClassAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TreeViewNodeStateAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ActionClassAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/MeterAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TableViewHeaderPressAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ActivityIndicatorAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextPaneSelectionAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/BulletedListAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextAreaSelectionAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SpinnerBindingAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ViewportAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/FormAttributeAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ImageViewBindingAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SpinnerAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/AccordionSelectionAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentMouseButtonAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/MovieAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/FrameAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/FileBrowserAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ButtonBindingAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TableViewColumnAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/BlockAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ContainerAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/PromptAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextAreaAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/GridPaneAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ContainerMouseAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TableViewAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TableViewRowAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TabPaneAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/WindowClassAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/FileBrowserSheetAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ColorChooserButtonBindingAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ScrollBarAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextNodeAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SuggestionPopupItemAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/RollupStateAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SheetCloseAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ListButtonBindingAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextInputBindingAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/MenuButtonAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/LabelBindingAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/CalendarButtonAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SliderValueAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextAreaBindingAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/CalendarButtonBindingAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentStyleAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/CalendarSelectionAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/SheetStateAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TreeViewAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentDecoratorAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ButtonPressAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ExpanderAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ButtonAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ButtonGroupAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TableViewSortAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TreeViewNodeAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/AccordionAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ImageNodeAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextPaneAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TablePaneAttributeAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ListButtonItemAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/TextInputSelectionAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/DialogStateAdapter.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-pivot/src/main/java/griffon/pivot/support/adapters/ComponentTooltipAdapter.java</SrcDir>
   </Project>
   <Errors errors="2" missingClasses="0">
     <Error>
@@ -406,7 +406,7 @@
       <StackTrace>org.gradle.process.internal.launcher.GradleWorkerMain.main(GradleWorkerMain.java:37)</StackTrace>
     </Error>
   </Errors>
-  <FindBugsSummary timestamp="Tue, 18 Feb 2014 21:07:02 +0000" total_classes="172" referenced_classes="662" total_bugs="0" total_size="6304" num_packages="7" vm_version="24.51-b03" cpu_seconds="62.96" clock_seconds="22.57" peak_mbytes="313.02" alloc_mbytes="683.00" gc_seconds="1.14">
+  <FindBugsSummary timestamp="Sat, 22 Feb 2014 19:19:08 +0000" total_classes="172" referenced_classes="662" total_bugs="0" total_size="6304" num_packages="7" vm_version="24.51-b03" cpu_seconds="51.70" clock_seconds="19.18" peak_mbytes="311.66" alloc_mbytes="683.00" gc_seconds="0.48">
     <PackageStats package="griffon.pivot" total_bugs="0" total_types="4" total_size="76">
       <ClassStats class="griffon.pivot.AbstractPivotGriffonApplication" sourceFile="AbstractPivotGriffonApplication.java" interface="false" size="61" bugs="0"/>
       <ClassStats class="griffon.pivot.DesktopPivotGriffonApplication" sourceFile="DesktopPivotGriffonApplication.java" interface="false" size="13" bugs="0"/>
@@ -594,31 +594,33 @@
       <ClassStats class="org.codehaus.griffon.runtime.pivot.controller.PivotGriffonControllerAction$2$1" sourceFile="PivotGriffonControllerAction.java" interface="false" size="13" bugs="0"/>
     </PackageStats>
     <FindBugsProfile>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="1863" invocations="1623" avgMicrosecondsPerInvocation="1148" maxMicrosecondsPerInvocation="48801" standardDeviationMircosecondsPerInvocation="2644"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="1450" invocations="662" avgMicrosecondsPerInvocation="2191" maxMicrosecondsPerInvocation="146011" standardDeviationMircosecondsPerInvocation="8346"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="1285" invocations="1722" avgMicrosecondsPerInvocation="746" maxMicrosecondsPerInvocation="637059" standardDeviationMircosecondsPerInvocation="15358"/>
-      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="984" invocations="1702" avgMicrosecondsPerInvocation="578" maxMicrosecondsPerInvocation="13820" standardDeviationMircosecondsPerInvocation="1123"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="863" invocations="1713" avgMicrosecondsPerInvocation="503" maxMicrosecondsPerInvocation="24931" standardDeviationMircosecondsPerInvocation="1176"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="833" invocations="1714" avgMicrosecondsPerInvocation="486" maxMicrosecondsPerInvocation="20270" standardDeviationMircosecondsPerInvocation="927"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="816" invocations="662" avgMicrosecondsPerInvocation="1233" maxMicrosecondsPerInvocation="67136" standardDeviationMircosecondsPerInvocation="4408"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="775" invocations="1721" avgMicrosecondsPerInvocation="450" maxMicrosecondsPerInvocation="21713" standardDeviationMircosecondsPerInvocation="834"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="746" invocations="1712" avgMicrosecondsPerInvocation="436" maxMicrosecondsPerInvocation="14031" standardDeviationMircosecondsPerInvocation="948"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.LiveLocalStoreDataflowFactory" totalMilliseconds="532" invocations="1674" avgMicrosecondsPerInvocation="317" maxMicrosecondsPerInvocation="331310" standardDeviationMircosecondsPerInvocation="8095"/>
-      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="519" invocations="1568" avgMicrosecondsPerInvocation="331" maxMicrosecondsPerInvocation="41591" standardDeviationMircosecondsPerInvocation="1222"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="462" invocations="662" avgMicrosecondsPerInvocation="698" maxMicrosecondsPerInvocation="30002" standardDeviationMircosecondsPerInvocation="1793"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="460" invocations="1629" avgMicrosecondsPerInvocation="282" maxMicrosecondsPerInvocation="60539" standardDeviationMircosecondsPerInvocation="2079"/>
-      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="448" invocations="2131" avgMicrosecondsPerInvocation="210" maxMicrosecondsPerInvocation="30263" standardDeviationMircosecondsPerInvocation="904"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="426" invocations="782" avgMicrosecondsPerInvocation="545" maxMicrosecondsPerInvocation="5727" standardDeviationMircosecondsPerInvocation="673"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="393" invocations="1717" avgMicrosecondsPerInvocation="229" maxMicrosecondsPerInvocation="94472" standardDeviationMircosecondsPerInvocation="2278"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="392" invocations="713" avgMicrosecondsPerInvocation="550" maxMicrosecondsPerInvocation="27774" standardDeviationMircosecondsPerInvocation="1582"/>
-      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.TypeQualifierNullnessAnnotationDatabase" totalMilliseconds="351" invocations="12963" avgMicrosecondsPerInvocation="27" maxMicrosecondsPerInvocation="4282" standardDeviationMircosecondsPerInvocation="65"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="345" invocations="662" avgMicrosecondsPerInvocation="522" maxMicrosecondsPerInvocation="47969" standardDeviationMircosecondsPerInvocation="2233"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="297" invocations="662" avgMicrosecondsPerInvocation="449" maxMicrosecondsPerInvocation="16463" standardDeviationMircosecondsPerInvocation="1276"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="283" invocations="1713" avgMicrosecondsPerInvocation="165" maxMicrosecondsPerInvocation="3593" standardDeviationMircosecondsPerInvocation="308"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="249" invocations="662" avgMicrosecondsPerInvocation="376" maxMicrosecondsPerInvocation="13643" standardDeviationMircosecondsPerInvocation="1160"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FindInconsistentSync2" totalMilliseconds="236" invocations="172" avgMicrosecondsPerInvocation="1373" maxMicrosecondsPerInvocation="15717" standardDeviationMircosecondsPerInvocation="1554"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.EqualsOperandShouldHaveClassCompatibleWithThis" totalMilliseconds="224" invocations="662" avgMicrosecondsPerInvocation="338" maxMicrosecondsPerInvocation="15863" standardDeviationMircosecondsPerInvocation="1001"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.ReflectiveClasses" totalMilliseconds="166" invocations="662" avgMicrosecondsPerInvocation="252" maxMicrosecondsPerInvocation="9984" standardDeviationMircosecondsPerInvocation="786"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="1744" invocations="1622" avgMicrosecondsPerInvocation="1075" maxMicrosecondsPerInvocation="32957" standardDeviationMircosecondsPerInvocation="2460"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="1061" invocations="662" avgMicrosecondsPerInvocation="1603" maxMicrosecondsPerInvocation="74489" standardDeviationMircosecondsPerInvocation="5288"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="867" invocations="1702" avgMicrosecondsPerInvocation="509" maxMicrosecondsPerInvocation="10296" standardDeviationMircosecondsPerInvocation="898"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="794" invocations="1722" avgMicrosecondsPerInvocation="461" maxMicrosecondsPerInvocation="203251" standardDeviationMircosecondsPerInvocation="4933"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="751" invocations="1713" avgMicrosecondsPerInvocation="438" maxMicrosecondsPerInvocation="11863" standardDeviationMircosecondsPerInvocation="777"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="747" invocations="1714" avgMicrosecondsPerInvocation="436" maxMicrosecondsPerInvocation="17035" standardDeviationMircosecondsPerInvocation="665"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="705" invocations="1721" avgMicrosecondsPerInvocation="410" maxMicrosecondsPerInvocation="18307" standardDeviationMircosecondsPerInvocation="695"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="662" invocations="1712" avgMicrosecondsPerInvocation="387" maxMicrosecondsPerInvocation="10623" standardDeviationMircosecondsPerInvocation="726"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="613" invocations="662" avgMicrosecondsPerInvocation="927" maxMicrosecondsPerInvocation="62487" standardDeviationMircosecondsPerInvocation="3440"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="558" invocations="1567" avgMicrosecondsPerInvocation="356" maxMicrosecondsPerInvocation="45349" standardDeviationMircosecondsPerInvocation="1317"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="499" invocations="2131" avgMicrosecondsPerInvocation="234" maxMicrosecondsPerInvocation="164792" standardDeviationMircosecondsPerInvocation="3599"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="398" invocations="782" avgMicrosecondsPerInvocation="510" maxMicrosecondsPerInvocation="4802" standardDeviationMircosecondsPerInvocation="593"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="363" invocations="662" avgMicrosecondsPerInvocation="548" maxMicrosecondsPerInvocation="29512" standardDeviationMircosecondsPerInvocation="1544"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="350" invocations="1717" avgMicrosecondsPerInvocation="204" maxMicrosecondsPerInvocation="69525" standardDeviationMircosecondsPerInvocation="1677"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.TypeQualifierNullnessAnnotationDatabase" totalMilliseconds="343" invocations="12963" avgMicrosecondsPerInvocation="26" maxMicrosecondsPerInvocation="2929" standardDeviationMircosecondsPerInvocation="56"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="323" invocations="713" avgMicrosecondsPerInvocation="454" maxMicrosecondsPerInvocation="28181" standardDeviationMircosecondsPerInvocation="1370"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="265" invocations="1713" avgMicrosecondsPerInvocation="154" maxMicrosecondsPerInvocation="2938" standardDeviationMircosecondsPerInvocation="257"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="240" invocations="662" avgMicrosecondsPerInvocation="362" maxMicrosecondsPerInvocation="24977" standardDeviationMircosecondsPerInvocation="1323"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="231" invocations="662" avgMicrosecondsPerInvocation="350" maxMicrosecondsPerInvocation="12044" standardDeviationMircosecondsPerInvocation="961"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindInconsistentSync2" totalMilliseconds="219" invocations="172" avgMicrosecondsPerInvocation="1277" maxMicrosecondsPerInvocation="13390" standardDeviationMircosecondsPerInvocation="1370"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="190" invocations="662" avgMicrosecondsPerInvocation="287" maxMicrosecondsPerInvocation="12623" standardDeviationMircosecondsPerInvocation="922"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.LiveLocalStoreDataflowFactory" totalMilliseconds="189" invocations="1674" avgMicrosecondsPerInvocation="113" maxMicrosecondsPerInvocation="2287" standardDeviationMircosecondsPerInvocation="206"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="175" invocations="1628" avgMicrosecondsPerInvocation="107" maxMicrosecondsPerInvocation="1408" standardDeviationMircosecondsPerInvocation="76"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.EqualsOperandShouldHaveClassCompatibleWithThis" totalMilliseconds="172" invocations="662" avgMicrosecondsPerInvocation="260" maxMicrosecondsPerInvocation="10930" standardDeviationMircosecondsPerInvocation="761"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory" totalMilliseconds="169" invocations="25" avgMicrosecondsPerInvocation="6763" maxMicrosecondsPerInvocation="165391" standardDeviationMircosecondsPerInvocation="32380"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.URLProblems" totalMilliseconds="133" invocations="172" avgMicrosecondsPerInvocation="776" maxMicrosecondsPerInvocation="8886" standardDeviationMircosecondsPerInvocation="1026"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ReflectiveClasses" totalMilliseconds="126" invocations="662" avgMicrosecondsPerInvocation="191" maxMicrosecondsPerInvocation="8990" standardDeviationMircosecondsPerInvocation="645"/>
     </FindBugsProfile>
   </FindBugsSummary>
   <ClassFeatures></ClassFeatures>

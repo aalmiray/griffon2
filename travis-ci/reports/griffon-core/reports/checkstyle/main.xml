@@ -246,8 +246,6 @@
 </file>
 <file name="/home/travis/build/aalmiray/griffon2/subprojects/griffon-core/src/main/java/griffon/exceptions/ArtifactNotFoundException.java">
 </file>
-<file name="/home/travis/build/aalmiray/griffon2/subprojects/griffon-core/src/main/java/griffon/exceptions/BeanException.java">
-</file>
 <file name="/home/travis/build/aalmiray/griffon2/subprojects/griffon-core/src/main/java/griffon/exceptions/BeanInstantiationException.java">
 </file>
 <file name="/home/travis/build/aalmiray/griffon2/subprojects/griffon-core/src/main/java/griffon/exceptions/ClosedInjectorException.java">

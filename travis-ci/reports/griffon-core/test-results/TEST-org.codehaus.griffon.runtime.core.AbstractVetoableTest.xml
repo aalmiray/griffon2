@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.codehaus.griffon.runtime.core.AbstractVetoableTest" tests="1" failures="0" errors="0" timestamp="2014-02-18T20:59:12" hostname="testing-worker-linux-9-1-26937-linux-3-19139712" time="0.111">
+<testsuite name="org.codehaus.griffon.runtime.core.AbstractVetoableTest" tests="1" failures="0" errors="0" timestamp="2014-02-22T19:12:28" hostname="testing-worker-linux-6-1-10096-linux-6-19406446" time="0.047">
   <properties/>
-  <testcase name="vetoableSetup" classname="org.codehaus.griffon.runtime.core.AbstractVetoableTest" time="0.111"/>
+  <testcase name="vetoableSetup" classname="org.codehaus.griffon.runtime.core.AbstractVetoableTest" time="0.047"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

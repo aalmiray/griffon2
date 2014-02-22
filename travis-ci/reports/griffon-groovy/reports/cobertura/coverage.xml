@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
 
-<coverage line-rate="0.5975609756097561" branch-rate="0.45864661654135336" lines-covered="392" lines-valid="656" branches-covered="122" branches-valid="266" complexity="1.726027397260274" version="2.0.3" timestamp="1392758261963">
+<coverage line-rate="0.5975609756097561" branch-rate="0.45864661654135336" lines-covered="392" lines-valid="656" branches-covered="122" branches-valid="266" complexity="1.726027397260274" version="2.0.3" timestamp="1393097213870">
 	<sources>
 		<source>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/groovy</source>
 		<source>/home/travis/build/aalmiray/griffon2/subprojects/griffon-groovy/src/main/java</source>

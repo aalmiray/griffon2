@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<BugCollection version="2.0.2" sequence="0" timestamp="1392757201984" analysisTimestamp="1392757202156" release="">
+<BugCollection version="2.0.2" sequence="0" timestamp="1393096400105" analysisTimestamp="1393096400143" release="">
   <Project projectName="">
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/build/classes/main/griffon/core/test/GriffonUnitRule$1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/build/classes/main/griffon/core/test/TestCaseAware.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/build/classes/main/griffon/core/test/TestFor.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/build/classes/main/griffon/core/test/GriffonUnitRule.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/build/classes/main/org/codehaus/griffon/runtime/core/TestApplicationBootstrapper.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/build/classes/main/org/codehaus/griffon/runtime/core/DefaultGriffonApplication.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/build/classes/main/org/codehaus/griffon/runtime/core/TestApplicationBootstrapper$1.class</Jar>
-    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/build/classes/main/org/codehaus/griffon/runtime/core/TestApplicationBootstrapper$InnerClassesModule.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/build/classes/main/org/codehaus/griffon/runtime/core/TestApplicationBootstrapper.class</Jar>
     <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/build/classes/main/org/codehaus/griffon/runtime/core/TestApplicationBootstrapper$FieldsModule.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/build/classes/main/org/codehaus/griffon/runtime/core/TestApplicationBootstrapper$InnerClassesModule.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/build/classes/main/org/codehaus/griffon/runtime/core/DefaultGriffonApplication.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/build/classes/main/griffon/core/test/GriffonUnitRule.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/build/classes/main/griffon/core/test/TestCaseAware.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/build/classes/main/griffon/core/test/GriffonUnitRule$1.class</Jar>
+    <Jar>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/build/classes/main/griffon/core/test/TestFor.class</Jar>
     <AuxClasspathEntry>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core/build/libs/griffon-core-2.0.0-SNAPSHOT.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/junit/junit/4.11/4e031bb61df09069aeb2bffb4019e7a5034a4ee0/junit-4.11.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/com.jayway.awaitility/awaitility/1.4.0/de86e16392180b8cdb3ba230c5bd8dec3a59027c/awaitility-1.4.0.jar</AuxClasspathEntry>
@@ -22,18 +22,18 @@
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/cglib/cglib-nodep/2.2/59afed7ab65e7ec6585d5bc60556c3cbd203532b/cglib-nodep-2.2.jar</AuxClasspathEntry>
     <AuxClasspathEntry>/home/travis/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/1.2/bfcb0539a071a4c5a30690388903ac48c0667f2a/objenesis-1.2.jar</AuxClasspathEntry>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/src/main/java/griffon/core/test/package-info.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/src/main/java/griffon/core/test/GriffonUnitRule.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/src/main/java/griffon/core/test/TestFor.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/src/main/java/griffon/core/test/TestCaseAware.java</SrcDir>
-    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/src/main/java/org/codehaus/griffon/runtime/core/package-info.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/src/main/java/org/codehaus/griffon/runtime/core/DefaultGriffonApplication.java</SrcDir>
     <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/src/main/java/org/codehaus/griffon/runtime/core/TestApplicationBootstrapper.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/src/main/java/org/codehaus/griffon/runtime/core/package-info.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/src/main/java/griffon/core/test/TestFor.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/src/main/java/griffon/core/test/TestCaseAware.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/src/main/java/griffon/core/test/GriffonUnitRule.java</SrcDir>
+    <SrcDir>/home/travis/build/aalmiray/griffon2/subprojects/griffon-core-test/src/main/java/griffon/core/test/package-info.java</SrcDir>
   </Project>
   <Errors errors="0" missingClasses="0"></Errors>
-  <FindBugsSummary timestamp="Tue, 18 Feb 2014 21:00:01 +0000" total_classes="9" referenced_classes="109" total_bugs="0" total_size="254" num_packages="2" vm_version="24.51-b03" cpu_seconds="33.39" clock_seconds="12.78" peak_mbytes="138.23" alloc_mbytes="683.00" gc_seconds="0.15">
-    <PackageStats package="griffon.core.test" total_bugs="0" total_types="4" total_size="80">
-      <ClassStats class="griffon.core.test.GriffonUnitRule" sourceFile="GriffonUnitRule.java" interface="false" size="58" bugs="0"/>
+  <FindBugsSummary timestamp="Sat, 22 Feb 2014 19:13:20 +0000" total_classes="9" referenced_classes="110" total_bugs="0" total_size="256" num_packages="2" vm_version="24.51-b03" cpu_seconds="26.44" clock_seconds="9.71" peak_mbytes="140.54" alloc_mbytes="683.00" gc_seconds="0.09">
+    <PackageStats package="griffon.core.test" total_bugs="0" total_types="4" total_size="82">
+      <ClassStats class="griffon.core.test.GriffonUnitRule" sourceFile="GriffonUnitRule.java" interface="false" size="60" bugs="0"/>
       <ClassStats class="griffon.core.test.GriffonUnitRule$1" sourceFile="GriffonUnitRule.java" interface="false" size="18" bugs="0"/>
       <ClassStats class="griffon.core.test.TestCaseAware" sourceFile="TestCaseAware.java" interface="true" size="2" bugs="0"/>
       <ClassStats class="griffon.core.test.TestFor" sourceFile="TestFor.java" interface="true" size="2" bugs="0"/>
@@ -46,22 +46,23 @@
       <ClassStats class="org.codehaus.griffon.runtime.core.TestApplicationBootstrapper$InnerClassesModule" sourceFile="TestApplicationBootstrapper.java" interface="false" size="29" bugs="0"/>
     </PackageStats>
     <FindBugsProfile>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="1475" invocations="616" avgMicrosecondsPerInvocation="2395" maxMicrosecondsPerInvocation="77090" standardDeviationMircosecondsPerInvocation="5656"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="858" invocations="109" avgMicrosecondsPerInvocation="7876" maxMicrosecondsPerInvocation="126615" standardDeviationMircosecondsPerInvocation="20656"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="850" invocations="42" avgMicrosecondsPerInvocation="20260" maxMicrosecondsPerInvocation="200103" standardDeviationMircosecondsPerInvocation="46130"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="731" invocations="38" avgMicrosecondsPerInvocation="19238" maxMicrosecondsPerInvocation="337848" standardDeviationMircosecondsPerInvocation="55160"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="666" invocations="38" avgMicrosecondsPerInvocation="17540" maxMicrosecondsPerInvocation="355825" standardDeviationMircosecondsPerInvocation="57271"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="579" invocations="41" avgMicrosecondsPerInvocation="14143" maxMicrosecondsPerInvocation="117927" standardDeviationMircosecondsPerInvocation="26151"/>
-      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="545" invocations="38" avgMicrosecondsPerInvocation="14366" maxMicrosecondsPerInvocation="177874" standardDeviationMircosecondsPerInvocation="30507"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="529" invocations="109" avgMicrosecondsPerInvocation="4859" maxMicrosecondsPerInvocation="76456" standardDeviationMircosecondsPerInvocation="12443"/>
-      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="426" invocations="576" avgMicrosecondsPerInvocation="741" maxMicrosecondsPerInvocation="16108" standardDeviationMircosecondsPerInvocation="1601"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="359" invocations="109" avgMicrosecondsPerInvocation="3301" maxMicrosecondsPerInvocation="40738" standardDeviationMircosecondsPerInvocation="5753"/>
-      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="344" invocations="244" avgMicrosecondsPerInvocation="1413" maxMicrosecondsPerInvocation="22911" standardDeviationMircosecondsPerInvocation="2024"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="286" invocations="33" avgMicrosecondsPerInvocation="8696" maxMicrosecondsPerInvocation="108299" standardDeviationMircosecondsPerInvocation="19523"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="277" invocations="140" avgMicrosecondsPerInvocation="1979" maxMicrosecondsPerInvocation="28065" standardDeviationMircosecondsPerInvocation="3783"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="263" invocations="38" avgMicrosecondsPerInvocation="6929" maxMicrosecondsPerInvocation="62427" standardDeviationMircosecondsPerInvocation="11314"/>
-      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="248" invocations="38" avgMicrosecondsPerInvocation="6546" maxMicrosecondsPerInvocation="107918" standardDeviationMircosecondsPerInvocation="17808"/>
-      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="226" invocations="109" avgMicrosecondsPerInvocation="2074" maxMicrosecondsPerInvocation="45411" standardDeviationMircosecondsPerInvocation="5428"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="1238" invocations="621" avgMicrosecondsPerInvocation="1993" maxMicrosecondsPerInvocation="47845" standardDeviationMircosecondsPerInvocation="4705"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="696" invocations="110" avgMicrosecondsPerInvocation="6331" maxMicrosecondsPerInvocation="103451" standardDeviationMircosecondsPerInvocation="16370"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="585" invocations="42" avgMicrosecondsPerInvocation="13928" maxMicrosecondsPerInvocation="188230" standardDeviationMircosecondsPerInvocation="38703"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="453" invocations="110" avgMicrosecondsPerInvocation="4121" maxMicrosecondsPerInvocation="79405" standardDeviationMircosecondsPerInvocation="11760"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="427" invocations="41" avgMicrosecondsPerInvocation="10414" maxMicrosecondsPerInvocation="130884" standardDeviationMircosecondsPerInvocation="25781"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="419" invocations="38" avgMicrosecondsPerInvocation="11046" maxMicrosecondsPerInvocation="192757" standardDeviationMircosecondsPerInvocation="31459"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="391" invocations="38" avgMicrosecondsPerInvocation="10293" maxMicrosecondsPerInvocation="190408" standardDeviationMircosecondsPerInvocation="30698"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="356" invocations="579" avgMicrosecondsPerInvocation="616" maxMicrosecondsPerInvocation="11705" standardDeviationMircosecondsPerInvocation="1348"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="347" invocations="38" avgMicrosecondsPerInvocation="9138" maxMicrosecondsPerInvocation="129309" standardDeviationMircosecondsPerInvocation="21426"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="289" invocations="110" avgMicrosecondsPerInvocation="2627" maxMicrosecondsPerInvocation="38205" standardDeviationMircosecondsPerInvocation="5029"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="269" invocations="244" avgMicrosecondsPerInvocation="1104" maxMicrosecondsPerInvocation="14351" standardDeviationMircosecondsPerInvocation="1406"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="220" invocations="33" avgMicrosecondsPerInvocation="6673" maxMicrosecondsPerInvocation="101564" standardDeviationMircosecondsPerInvocation="17419"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="208" invocations="141" avgMicrosecondsPerInvocation="1480" maxMicrosecondsPerInvocation="30876" standardDeviationMircosecondsPerInvocation="3342"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory" totalMilliseconds="183" invocations="38" avgMicrosecondsPerInvocation="4834" maxMicrosecondsPerInvocation="96704" standardDeviationMircosecondsPerInvocation="15468"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="174" invocations="38" avgMicrosecondsPerInvocation="4595" maxMicrosecondsPerInvocation="41710" standardDeviationMircosecondsPerInvocation="7576"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="172" invocations="110" avgMicrosecondsPerInvocation="1570" maxMicrosecondsPerInvocation="32382" standardDeviationMircosecondsPerInvocation="4032"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.impl.ZipCodeBaseFactory" totalMilliseconds="151" invocations="23" avgMicrosecondsPerInvocation="6578" maxMicrosecondsPerInvocation="147673" standardDeviationMircosecondsPerInvocation="30081"/>
     </FindBugsProfile>
   </FindBugsSummary>
   <ClassFeatures></ClassFeatures>

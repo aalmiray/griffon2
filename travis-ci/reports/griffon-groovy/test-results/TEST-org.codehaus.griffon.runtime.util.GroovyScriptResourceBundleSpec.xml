@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.codehaus.griffon.runtime.util.GroovyScriptResourceBundleSpec" tests="5" failures="0" errors="0" timestamp="2014-02-18T21:03:18" hostname="testing-worker-linux-9-1-26937-linux-3-19139712" time="0.175">
+<testsuite name="org.codehaus.griffon.runtime.util.GroovyScriptResourceBundleSpec" tests="5" failures="0" errors="0" timestamp="2014-02-22T19:15:43" hostname="testing-worker-linux-6-1-10096-linux-6-19406446" time="0.151">
   <properties/>
-  <testcase name="Load bundle from class org.codehaus.griffon.runtime.util.GroovyBundle" classname="org.codehaus.griffon.runtime.util.GroovyScriptResourceBundleSpec" time="0.024"/>
-  <testcase name="Load bundle from org.codehaus.griffon.runtime.util.GroovyBundle@758c7ddc" classname="org.codehaus.griffon.runtime.util.GroovyScriptResourceBundleSpec" time="0.019"/>
-  <testcase name="Load bundle from groovy.key = 'groovy'" classname="org.codehaus.griffon.runtime.util.GroovyScriptResourceBundleSpec" time="0.078"/>
-  <testcase name="Querying for missing 'bogus' should result in an exception" classname="org.codehaus.griffon.runtime.util.GroovyScriptResourceBundleSpec" time="0.022"/>
-  <testcase name="Querying for missing 'doesnt.exist' should result in an exception" classname="org.codehaus.griffon.runtime.util.GroovyScriptResourceBundleSpec" time="0.014"/>
+  <testcase name="Load bundle from class org.codehaus.griffon.runtime.util.GroovyBundle" classname="org.codehaus.griffon.runtime.util.GroovyScriptResourceBundleSpec" time="0.038"/>
+  <testcase name="Load bundle from org.codehaus.griffon.runtime.util.GroovyBundle@345bc450" classname="org.codehaus.griffon.runtime.util.GroovyScriptResourceBundleSpec" time="0.013"/>
+  <testcase name="Load bundle from groovy.key = 'groovy'" classname="org.codehaus.griffon.runtime.util.GroovyScriptResourceBundleSpec" time="0.061"/>
+  <testcase name="Querying for missing 'bogus' should result in an exception" classname="org.codehaus.griffon.runtime.util.GroovyScriptResourceBundleSpec" time="0.02"/>
+  <testcase name="Querying for missing 'doesnt.exist' should result in an exception" classname="org.codehaus.griffon.runtime.util.GroovyScriptResourceBundleSpec" time="0.012"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
